@@ -1,0 +1,496 @@
+2026-03-25 10:11:49 INFO com.financegov.FinanceGovApplication - Starting FinanceGovApplication using Java 21.0.8 with PID 21436 (C:\Users\2481778\Downloads\ProjectWorkspace\FinanceGovApplication\target\classes started by 2481778 in C:\Users\2481778\Downloads\ProjectWorkspace\FinanceGovApplication)
+2026-03-25 10:11:49 INFO com.financegov.FinanceGovApplication - No active profile set, falling back to 1 default profile: "default"
+2026-03-25 10:12:03 INFO com.financegov.FinanceGovApplication - Started FinanceGovApplication in 15.829 seconds (process running for 18.124)
+2026-03-25 10:39:15 INFO com.financegov.FinanceGovApplication - Starting FinanceGovApplication using Java 21.0.8 with PID 21436 (C:\Users\2481778\Downloads\ProjectWorkspace\FinanceGovApplication\target\classes started by 2481778 in C:\Users\2481778\Downloads\ProjectWorkspace\FinanceGovApplication)
+2026-03-25 10:39:15 INFO com.financegov.FinanceGovApplication - No active profile set, falling back to 1 default profile: "default"
+2026-03-25 10:39:19 INFO com.financegov.FinanceGovApplication - Started FinanceGovApplication in 4.063 seconds (process running for 1654.357)
+2026-03-25 10:39:26 INFO com.financegov.FinanceGovApplication - Starting FinanceGovApplication using Java 21.0.8 with PID 21436 (C:\Users\2481778\Downloads\ProjectWorkspace\FinanceGovApplication\target\classes started by 2481778 in C:\Users\2481778\Downloads\ProjectWorkspace\FinanceGovApplication)
+2026-03-25 10:39:26 INFO com.financegov.FinanceGovApplication - No active profile set, falling back to 1 default profile: "default"
+2026-03-25 10:39:28 INFO com.financegov.FinanceGovApplication - Started FinanceGovApplication in 1.61 seconds (process running for 1663.592)
+2026-03-25 10:39:30 INFO com.financegov.FinanceGovApplication - Starting FinanceGovApplication using Java 21.0.8 with PID 21436 (C:\Users\2481778\Downloads\ProjectWorkspace\FinanceGovApplication\target\classes started by 2481778 in C:\Users\2481778\Downloads\ProjectWorkspace\FinanceGovApplication)
+2026-03-25 10:39:30 INFO com.financegov.FinanceGovApplication - No active profile set, falling back to 1 default profile: "default"
+2026-03-25 10:39:31 INFO com.financegov.FinanceGovApplication - Started FinanceGovApplication in 1.612 seconds (process running for 1666.802)
+2026-03-25 10:52:21 INFO com.financegov.service.impl.ComplianceRecordServiceImpl - Creating new compliance record
+2026-03-25 10:52:21 INFO com.financegov.service.impl.ComplianceRecordServiceImpl - Compliance record created with ID: 2
+2026-03-25 10:59:01 INFO com.financegov.FinanceGovApplication - Starting FinanceGovApplication using Java 21.0.8 with PID 21436 (C:\Users\2481778\Downloads\ProjectWorkspace\FinanceGovApplication\target\classes started by 2481778 in C:\Users\2481778\Downloads\ProjectWorkspace\FinanceGovApplication)
+2026-03-25 10:59:01 INFO com.financegov.FinanceGovApplication - No active profile set, falling back to 1 default profile: "default"
+2026-03-25 10:59:04 INFO com.financegov.FinanceGovApplication - Started FinanceGovApplication in 2.573 seconds (process running for 2839.044)
+2026-03-25 10:59:12 INFO com.financegov.FinanceGovApplication - Starting FinanceGovApplication using Java 21.0.8 with PID 21436 (C:\Users\2481778\Downloads\ProjectWorkspace\FinanceGovApplication\target\classes started by 2481778 in C:\Users\2481778\Downloads\ProjectWorkspace\FinanceGovApplication)
+2026-03-25 10:59:12 INFO com.financegov.FinanceGovApplication - No active profile set, falling back to 1 default profile: "default"
+2026-03-25 10:59:15 INFO com.financegov.FinanceGovApplication - Started FinanceGovApplication in 2.316 seconds (process running for 2850.12)
+2026-03-25 10:59:21 INFO com.financegov.service.impl.AuditServiceImpl - Creating new audit record
+2026-03-25 10:59:21 INFO com.financegov.service.impl.AuditServiceImpl - Audit record created with ID: 1
+2026-03-25 10:59:42 INFO com.financegov.service.impl.AuditServiceImpl - Fetching all audit records
+2026-03-25 10:59:43 INFO com.financegov.service.impl.AuditServiceImpl - Total audit records fetched: 1
+2026-03-25 10:59:59 INFO com.financegov.service.impl.AuditServiceImpl - Fetching audit record with ID: 1
+2026-03-25 10:59:59 INFO com.financegov.service.impl.AuditServiceImpl - Audit record found for ID: 1
+2026-03-25 11:00:07 INFO com.financegov.service.impl.AuditServiceImpl - Fetching audit records for Officer ID: 2101
+2026-03-25 11:00:09 INFO com.financegov.service.impl.AuditServiceImpl - Total records found for Officer ID 2101: 1
+2026-03-25 11:00:10 INFO com.financegov.service.impl.AuditServiceImpl - Fetching audit records for Officer ID: 2102
+2026-03-25 11:00:10 INFO com.financegov.service.impl.AuditServiceImpl - Total records found for Officer ID 2102: 0
+2026-03-25 11:00:15 INFO com.financegov.service.impl.AuditServiceImpl - Fetching audit records for Officer ID: 2101
+2026-03-25 11:00:15 INFO com.financegov.service.impl.AuditServiceImpl - Total records found for Officer ID 2101: 1
+2026-03-25 11:00:22 INFO com.financegov.service.impl.AuditServiceImpl - Generating audit summary by status
+2026-03-25 11:00:22 INFO com.financegov.service.impl.AuditServiceImpl - Audit summary generated successfully
+2026-03-25 11:00:26 INFO com.financegov.service.impl.AuditServiceImpl - Updating audit record with ID: 3
+2026-03-25 11:00:31 INFO com.financegov.service.impl.AuditServiceImpl - Updating audit record with ID: 1
+2026-03-25 11:00:31 INFO com.financegov.service.impl.AuditServiceImpl - Audit record updated successfully for ID: 1
+2026-03-25 11:00:36 INFO com.financegov.service.impl.AuditServiceImpl - Updating audit record with ID: 1
+2026-03-25 11:00:44 INFO com.financegov.service.impl.AuditServiceImpl - Attempting to delete audit record with ID: 1
+2026-03-25 11:00:44 INFO com.financegov.service.impl.AuditServiceImpl - Fetching audit record with ID: 1
+2026-03-25 11:00:44 INFO com.financegov.service.impl.AuditServiceImpl - Audit record found for ID: 1
+2026-03-25 11:00:44 INFO com.financegov.service.impl.AuditServiceImpl - Audit record deleted successfully with ID: 1
+2026-03-25 11:00:46 INFO com.financegov.service.impl.AuditServiceImpl - Attempting to delete audit record with ID: 1
+2026-03-25 11:00:46 INFO com.financegov.service.impl.AuditServiceImpl - Fetching audit record with ID: 1
+2026-03-25 11:00:46 WARN com.financegov.service.impl.AuditServiceImpl - Audit record not found for ID: 1
+2026-03-25 11:00:53 INFO com.financegov.service.impl.AuditServiceImpl - Fetching audit records for Officer ID: 2101
+2026-03-25 11:00:53 INFO com.financegov.service.impl.AuditServiceImpl - Total records found for Officer ID 2101: 0
+2026-03-25 11:01:17 INFO com.financegov.service.impl.ComplianceRecordServiceImpl - Creating new compliance record
+2026-03-25 11:01:17 INFO com.financegov.service.impl.ComplianceRecordServiceImpl - Compliance record created with ID: 1
+2026-03-25 11:01:27 INFO com.financegov.service.impl.ComplianceRecordServiceImpl - Fetching all compliance records
+2026-03-25 11:01:27 INFO com.financegov.service.impl.ComplianceRecordServiceImpl - Total compliance records fetched: 1
+2026-03-25 11:01:34 INFO com.financegov.service.impl.ComplianceRecordServiceImpl - Fetching compliance record with ID: 1
+2026-03-25 11:01:34 INFO com.financegov.service.impl.ComplianceRecordServiceImpl - Compliance record found for ID: 1
+2026-03-25 11:01:46 INFO com.financegov.service.impl.ComplianceRecordServiceImpl - Fetching compliance records for Entity ID: 2001
+2026-03-25 11:01:46 INFO com.financegov.service.impl.ComplianceRecordServiceImpl - Total records found for Entity ID 2001: 1
+2026-03-25 11:01:53 INFO com.financegov.service.impl.ComplianceRecordServiceImpl - Generating compliance summary by result status
+2026-03-25 11:01:53 INFO com.financegov.service.impl.ComplianceRecordServiceImpl - Compliance summary generated successfully
+2026-03-25 11:01:59 INFO com.financegov.service.impl.ComplianceRecordServiceImpl - Updating compliance record with ID: 3
+2026-03-25 11:02:37 INFO com.financegov.service.impl.ComplianceRecordServiceImpl - Updating compliance record with ID: 1
+2026-03-25 11:02:37 WARN com.financegov.service.impl.ComplianceRecordServiceImpl - CALLING AUDIT METHOD
+2026-03-25 11:04:41 INFO com.financegov.FinanceGovApplication - Starting FinanceGovApplication using Java 21.0.8 with PID 21436 (C:\Users\2481778\Downloads\ProjectWorkspace\FinanceGovApplication\target\classes started by 2481778 in C:\Users\2481778\Downloads\ProjectWorkspace\FinanceGovApplication)
+2026-03-25 11:04:41 INFO com.financegov.FinanceGovApplication - No active profile set, falling back to 1 default profile: "default"
+2026-03-25 11:04:43 INFO com.financegov.FinanceGovApplication - Started FinanceGovApplication in 2.231 seconds (process running for 3178.238)
+2026-03-25 11:04:44 INFO com.financegov.FinanceGovApplication - Starting FinanceGovApplication using Java 21.0.8 with PID 21436 (C:\Users\2481778\Downloads\ProjectWorkspace\FinanceGovApplication\target\classes started by 2481778 in C:\Users\2481778\Downloads\ProjectWorkspace\FinanceGovApplication)
+2026-03-25 11:04:44 INFO com.financegov.FinanceGovApplication - No active profile set, falling back to 1 default profile: "default"
+2026-03-25 11:04:46 INFO com.financegov.FinanceGovApplication - Started FinanceGovApplication in 1.628 seconds (process running for 3181.374)
+2026-03-25 11:07:15 INFO com.financegov.FinanceGovApplication - Starting FinanceGovApplication using Java 21.0.8 with PID 21436 (C:\Users\2481778\Downloads\ProjectWorkspace\FinanceGovApplication\target\classes started by 2481778 in C:\Users\2481778\Downloads\ProjectWorkspace\FinanceGovApplication)
+2026-03-25 11:07:15 INFO com.financegov.FinanceGovApplication - No active profile set, falling back to 1 default profile: "default"
+2026-03-25 11:07:16 INFO com.financegov.FinanceGovApplication - Started FinanceGovApplication in 1.349 seconds (process running for 3331.716)
+2026-03-25 11:07:56 INFO com.financegov.FinanceGovApplication - Starting FinanceGovApplication using Java 21.0.8 with PID 21436 (C:\Users\2481778\Downloads\ProjectWorkspace\FinanceGovApplication\target\classes started by 2481778 in C:\Users\2481778\Downloads\ProjectWorkspace\FinanceGovApplication)
+2026-03-25 11:07:56 INFO com.financegov.FinanceGovApplication - No active profile set, falling back to 1 default profile: "default"
+2026-03-25 11:07:57 INFO com.financegov.FinanceGovApplication - Started FinanceGovApplication in 1.36 seconds (process running for 3372.974)
+2026-03-25 11:08:54 INFO com.financegov.FinanceGovApplication - Starting FinanceGovApplication using Java 21.0.8 with PID 21436 (C:\Users\2481778\Downloads\ProjectWorkspace\FinanceGovApplication\target\classes started by 2481778 in C:\Users\2481778\Downloads\ProjectWorkspace\FinanceGovApplication)
+2026-03-25 11:08:54 INFO com.financegov.FinanceGovApplication - No active profile set, falling back to 1 default profile: "default"
+2026-03-25 11:08:55 INFO com.financegov.FinanceGovApplication - Started FinanceGovApplication in 1.339 seconds (process running for 3430.57)
+2026-03-25 11:09:58 INFO com.financegov.service.impl.ComplianceRecordServiceImpl - Creating new compliance record
+2026-03-25 11:09:58 INFO com.financegov.service.impl.ComplianceRecordServiceImpl - Compliance record created with ID: 2
+2026-03-25 11:10:29 INFO com.financegov.service.impl.ComplianceRecordServiceImpl - Fetching all compliance records
+2026-03-25 11:10:29 INFO com.financegov.service.impl.ComplianceRecordServiceImpl - Total compliance records fetched: 2
+2026-03-25 11:11:40 INFO com.financegov.service.impl.ComplianceRecordServiceImpl - Updating compliance record with ID: 2
+2026-03-25 11:11:40 INFO com.financegov.service.impl.ComplianceRecordServiceImpl - Compliance record updated successfully for ID: 2
+2026-03-25 11:15:35 INFO com.financegov.FinanceGovApplication - Starting FinanceGovApplication using Java 21.0.8 with PID 21436 (C:\Users\2481778\Downloads\ProjectWorkspace\FinanceGovApplication\target\classes started by 2481778 in C:\Users\2481778\Downloads\ProjectWorkspace\FinanceGovApplication)
+2026-03-25 11:15:35 INFO com.financegov.FinanceGovApplication - No active profile set, falling back to 1 default profile: "default"
+2026-03-25 11:15:37 INFO com.financegov.FinanceGovApplication - Started FinanceGovApplication in 1.791 seconds (process running for 3832.065)
+2026-03-25 11:15:51 INFO com.financegov.FinanceGovApplication - Starting FinanceGovApplication using Java 21.0.8 with PID 21436 (C:\Users\2481778\Downloads\ProjectWorkspace\FinanceGovApplication\target\classes started by 2481778 in C:\Users\2481778\Downloads\ProjectWorkspace\FinanceGovApplication)
+2026-03-25 11:15:51 INFO com.financegov.FinanceGovApplication - No active profile set, falling back to 1 default profile: "default"
+2026-03-25 11:15:52 INFO com.financegov.FinanceGovApplication - Started FinanceGovApplication in 1.737 seconds (process running for 3847.78)
+2026-03-25 11:36:32 INFO com.financegov.FinanceGovApplication - Starting FinanceGovApplication using Java 21.0.8 with PID 23916 (C:\Users\2481778\Downloads\ProjectWorkspace\FinanceGovApplication\target\classes started by 2481778 in C:\Users\2481778\Downloads\ProjectWorkspace\FinanceGovApplication)
+2026-03-25 11:36:32 INFO com.financegov.FinanceGovApplication - No active profile set, falling back to 1 default profile: "default"
+2026-03-25 11:36:41 INFO com.financegov.FinanceGovApplication - Started FinanceGovApplication in 9.99 seconds (process running for 12.192)
+2026-03-25 11:36:46 INFO com.financegov.service.impl.AuditServiceImpl - Creating new audit record
+2026-03-25 11:36:47 INFO com.financegov.service.impl.AuditServiceImpl - Audit record created with ID: 2
+2026-03-25 11:36:52 INFO com.financegov.service.impl.AuditServiceImpl - Fetching all audit records
+2026-03-25 11:36:53 INFO com.financegov.service.impl.AuditServiceImpl - Total audit records fetched: 1
+2026-03-25 11:37:01 INFO com.financegov.service.impl.AuditServiceImpl - Fetching audit record with ID: 2
+2026-03-25 11:37:01 INFO com.financegov.service.impl.AuditServiceImpl - Audit record found for ID: 2
+2026-03-25 11:37:36 INFO com.financegov.service.impl.AuditServiceImpl - Fetching audit record with ID: 3
+2026-03-25 11:37:36 WARN com.financegov.service.impl.AuditServiceImpl - Audit record not found for ID: 3
+2026-03-25 11:37:36 INFO com.financegov.FinanceGovApplication - Starting FinanceGovApplication using Java 21.0.8 with PID 23916 (C:\Users\2481778\Downloads\ProjectWorkspace\FinanceGovApplication\target\classes started by 2481778 in C:\Users\2481778\Downloads\ProjectWorkspace\FinanceGovApplication)
+2026-03-25 11:37:36 INFO com.financegov.FinanceGovApplication - No active profile set, falling back to 1 default profile: "default"
+2026-03-25 11:37:39 INFO com.financegov.FinanceGovApplication - Started FinanceGovApplication in 2.908 seconds (process running for 70.564)
+2026-03-25 11:38:35 INFO com.financegov.service.impl.AuditServiceImpl - Updating audit record with ID: 1
+2026-03-25 11:38:40 INFO com.financegov.service.impl.AuditServiceImpl - Updating audit record with ID: 2
+2026-03-25 11:38:40 INFO com.financegov.service.impl.AuditServiceImpl - Audit record updated successfully for ID: 2
+2026-03-25 11:39:33 INFO com.financegov.service.impl.AuditServiceImpl - Fetching all audit records
+2026-03-25 11:39:33 INFO com.financegov.service.impl.AuditServiceImpl - Total audit records fetched: 1
+2026-03-25 11:39:53 INFO com.financegov.service.impl.AuditServiceImpl - Updating audit record with ID: 2
+2026-03-25 11:40:20 INFO com.financegov.service.impl.AuditServiceImpl - Attempting to delete audit record with ID: 1
+2026-03-25 11:40:20 INFO com.financegov.service.impl.AuditServiceImpl - Fetching audit record with ID: 1
+2026-03-25 11:40:20 WARN com.financegov.service.impl.AuditServiceImpl - Audit record not found for ID: 1
+2026-03-25 11:40:24 INFO com.financegov.service.impl.AuditServiceImpl - Attempting to delete audit record with ID: 2
+2026-03-25 11:40:24 INFO com.financegov.service.impl.AuditServiceImpl - Fetching audit record with ID: 2
+2026-03-25 11:40:24 INFO com.financegov.service.impl.AuditServiceImpl - Audit record found for ID: 2
+2026-03-25 11:40:24 INFO com.financegov.service.impl.AuditServiceImpl - Audit record deleted successfully with ID: 2
+2026-03-25 11:41:13 INFO com.financegov.FinanceGovApplication - Starting FinanceGovApplication using Java 21.0.8 with PID 23916 (C:\Users\2481778\Downloads\ProjectWorkspace\FinanceGovApplication\target\classes started by 2481778 in C:\Users\2481778\Downloads\ProjectWorkspace\FinanceGovApplication)
+2026-03-25 11:41:13 INFO com.financegov.FinanceGovApplication - No active profile set, falling back to 1 default profile: "default"
+2026-03-25 11:41:16 INFO com.financegov.FinanceGovApplication - Started FinanceGovApplication in 3.481 seconds (process running for 287.873)
+2026-03-25 11:41:18 INFO com.financegov.service.impl.ComplianceRecordServiceImpl - Fetching all compliance records
+2026-03-25 11:41:18 INFO com.financegov.service.impl.ComplianceRecordServiceImpl - Total compliance records fetched: 2
+2026-03-25 11:41:51 INFO com.financegov.service.impl.ComplianceRecordServiceImpl - Fetching compliance record with ID: 3
+2026-03-25 11:41:51 WARN com.financegov.service.impl.ComplianceRecordServiceImpl - Compliance record not found for ID: 3
+2026-03-25 11:41:56 INFO com.financegov.service.impl.ComplianceRecordServiceImpl - Fetching all compliance records
+2026-03-25 11:41:56 INFO com.financegov.service.impl.ComplianceRecordServiceImpl - Total compliance records fetched: 2
+2026-03-25 11:42:21 INFO com.financegov.FinanceGovApplication - Starting FinanceGovApplication using Java 21.0.8 with PID 23916 (C:\Users\2481778\Downloads\ProjectWorkspace\FinanceGovApplication\target\classes started by 2481778 in C:\Users\2481778\Downloads\ProjectWorkspace\FinanceGovApplication)
+2026-03-25 11:42:21 INFO com.financegov.FinanceGovApplication - No active profile set, falling back to 1 default profile: "default"
+2026-03-25 11:42:23 INFO com.financegov.FinanceGovApplication - Started FinanceGovApplication in 2.744 seconds (process running for 355.046)
+2026-03-25 11:43:01 INFO com.financegov.service.impl.ComplianceRecordServiceImpl - Updating compliance record with ID: 2
+2026-03-25 11:45:59 INFO com.financegov.FinanceGovApplication - Starting FinanceGovApplication using Java 21.0.8 with PID 23916 (C:\Users\2481778\Downloads\ProjectWorkspace\FinanceGovApplication\target\classes started by 2481778 in C:\Users\2481778\Downloads\ProjectWorkspace\FinanceGovApplication)
+2026-03-25 11:45:59 INFO com.financegov.FinanceGovApplication - No active profile set, falling back to 1 default profile: "default"
+2026-03-25 11:46:00 INFO com.financegov.FinanceGovApplication - Started FinanceGovApplication in 1.143 seconds (process running for 571.676)
+2026-03-25 11:46:04 INFO com.financegov.FinanceGovApplication - Starting FinanceGovApplication using Java 21.0.8 with PID 23916 (C:\Users\2481778\Downloads\ProjectWorkspace\FinanceGovApplication\target\classes started by 2481778 in C:\Users\2481778\Downloads\ProjectWorkspace\FinanceGovApplication)
+2026-03-25 11:46:04 INFO com.financegov.FinanceGovApplication - No active profile set, falling back to 1 default profile: "default"
+2026-03-25 11:46:05 INFO com.financegov.FinanceGovApplication - Started FinanceGovApplication in 1.075 seconds (process running for 576.366)
+2026-03-25 11:46:50 INFO com.financegov.FinanceGovApplication - Starting FinanceGovApplication using Java 21.0.8 with PID 23916 (C:\Users\2481778\Downloads\ProjectWorkspace\FinanceGovApplication\target\classes started by 2481778 in C:\Users\2481778\Downloads\ProjectWorkspace\FinanceGovApplication)
+2026-03-25 11:46:50 INFO com.financegov.FinanceGovApplication - No active profile set, falling back to 1 default profile: "default"
+2026-03-25 11:46:51 INFO com.financegov.FinanceGovApplication - Started FinanceGovApplication in 1.29 seconds (process running for 622.664)
+2026-03-25 11:47:57 INFO com.financegov.FinanceGovApplication - Starting FinanceGovApplication using Java 21.0.8 with PID 23916 (C:\Users\2481778\Downloads\ProjectWorkspace\FinanceGovApplication\target\classes started by 2481778 in C:\Users\2481778\Downloads\ProjectWorkspace\FinanceGovApplication)
+2026-03-25 11:47:57 INFO com.financegov.FinanceGovApplication - No active profile set, falling back to 1 default profile: "default"
+2026-03-25 11:47:58 INFO com.financegov.FinanceGovApplication - Started FinanceGovApplication in 1.032 seconds (process running for 689.421)
+2026-03-25 11:48:57 INFO com.financegov.service.impl.ComplianceRecordServiceImpl - Updating compliance record with ID: 2
+2026-03-25 11:49:02 INFO com.financegov.service.impl.ComplianceRecordServiceImpl - Updating compliance record with ID: 1
+2026-03-25 11:49:02 WARN com.financegov.service.impl.ComplianceRecordServiceImpl - CALLING AUDIT METHOD
+2026-03-25 11:49:23 INFO com.financegov.service.impl.AuditServiceImpl - Fetching audit record with ID: 3
+2026-03-25 11:49:23 WARN com.financegov.service.impl.AuditServiceImpl - Audit record not found for ID: 3
+2026-03-25 11:49:29 INFO com.financegov.service.impl.AuditServiceImpl - Fetching audit records for Officer ID: 2101
+2026-03-25 11:49:30 INFO com.financegov.service.impl.AuditServiceImpl - Total records found for Officer ID 2101: 0
+2026-03-25 11:49:40 INFO com.financegov.service.impl.AuditServiceImpl - Updating audit record with ID: 2
+2026-03-25 11:49:49 INFO com.financegov.service.impl.AuditServiceImpl - Updating audit record with ID: 1
+2026-03-25 11:49:52 INFO com.financegov.service.impl.AuditServiceImpl - Updating audit record with ID: 3
+2026-03-25 11:49:56 INFO com.financegov.service.impl.AuditServiceImpl - Fetching all audit records
+2026-03-25 11:49:56 INFO com.financegov.service.impl.AuditServiceImpl - Total audit records fetched: 0
+2026-03-25 11:50:00 INFO com.financegov.service.impl.AuditServiceImpl - Creating new audit record
+2026-03-25 11:50:00 INFO com.financegov.service.impl.AuditServiceImpl - Audit record created with ID: 3
+2026-03-25 11:50:08 INFO com.financegov.service.impl.AuditServiceImpl - Fetching audit record with ID: 3
+2026-03-25 11:50:08 INFO com.financegov.service.impl.AuditServiceImpl - Audit record found for ID: 3
+2026-03-25 11:50:10 INFO com.financegov.service.impl.AuditServiceImpl - Fetching audit record with ID: 1
+2026-03-25 11:50:10 WARN com.financegov.service.impl.AuditServiceImpl - Audit record not found for ID: 1
+2026-03-25 11:50:19 INFO com.financegov.service.impl.AuditServiceImpl - Updating audit record with ID: 3
+2026-03-25 11:50:19 INFO com.financegov.service.impl.AuditServiceImpl - Audit record updated successfully for ID: 3
+2026-03-25 11:50:20 INFO com.financegov.service.impl.AuditServiceImpl - Updating audit record with ID: 3
+2026-03-25 11:50:25 INFO com.financegov.service.impl.AuditServiceImpl - Updating audit record with ID: 2
+2026-03-25 11:50:30 INFO com.financegov.service.impl.AuditServiceImpl - Attempting to delete audit record with ID: 2
+2026-03-25 11:50:30 INFO com.financegov.service.impl.AuditServiceImpl - Fetching audit record with ID: 2
+2026-03-25 11:50:30 WARN com.financegov.service.impl.AuditServiceImpl - Audit record not found for ID: 2
+2026-03-25 11:50:34 INFO com.financegov.service.impl.AuditServiceImpl - Attempting to delete audit record with ID: 4
+2026-03-25 11:50:34 INFO com.financegov.service.impl.AuditServiceImpl - Fetching audit record with ID: 4
+2026-03-25 11:50:34 WARN com.financegov.service.impl.AuditServiceImpl - Audit record not found for ID: 4
+2026-03-25 11:50:36 INFO com.financegov.service.impl.AuditServiceImpl - Attempting to delete audit record with ID: 3
+2026-03-25 11:50:36 INFO com.financegov.service.impl.AuditServiceImpl - Fetching audit record with ID: 3
+2026-03-25 11:50:36 INFO com.financegov.service.impl.AuditServiceImpl - Audit record found for ID: 3
+2026-03-25 11:50:36 INFO com.financegov.service.impl.AuditServiceImpl - Audit record deleted successfully with ID: 3
+2026-03-25 11:54:45 INFO com.financegov.FinanceGovApplication - Starting FinanceGovApplication using Java 21.0.8 with PID 23916 (C:\Users\2481778\Downloads\ProjectWorkspace\FinanceGovApplication\target\classes started by 2481778 in C:\Users\2481778\Downloads\ProjectWorkspace\FinanceGovApplication)
+2026-03-25 11:54:45 INFO com.financegov.FinanceGovApplication - No active profile set, falling back to 1 default profile: "default"
+2026-03-25 11:54:46 INFO com.financegov.FinanceGovApplication - Started FinanceGovApplication in 1.355 seconds (process running for 1097.983)
+2026-03-25 11:56:03 INFO com.financegov.FinanceGovApplication - Starting FinanceGovApplication using Java 21.0.8 with PID 23916 (C:\Users\2481778\Downloads\ProjectWorkspace\FinanceGovApplication\target\classes started by 2481778 in C:\Users\2481778\Downloads\ProjectWorkspace\FinanceGovApplication)
+2026-03-25 11:56:03 INFO com.financegov.FinanceGovApplication - No active profile set, falling back to 1 default profile: "default"
+2026-03-25 11:56:05 INFO com.financegov.FinanceGovApplication - Started FinanceGovApplication in 2.043 seconds (process running for 1176.116)
+2026-03-25 11:56:57 INFO com.financegov.FinanceGovApplication - Starting FinanceGovApplication using Java 21.0.8 with PID 23916 (C:\Users\2481778\Downloads\ProjectWorkspace\FinanceGovApplication\target\classes started by 2481778 in C:\Users\2481778\Downloads\ProjectWorkspace\FinanceGovApplication)
+2026-03-25 11:56:57 INFO com.financegov.FinanceGovApplication - No active profile set, falling back to 1 default profile: "default"
+2026-03-25 11:56:58 INFO com.financegov.FinanceGovApplication - Started FinanceGovApplication in 0.956 seconds (process running for 1229.876)
+2026-03-25 11:58:28 INFO com.financegov.FinanceGovApplication - Starting FinanceGovApplication using Java 21.0.8 with PID 23916 (C:\Users\2481778\Downloads\ProjectWorkspace\FinanceGovApplication\target\classes started by 2481778 in C:\Users\2481778\Downloads\ProjectWorkspace\FinanceGovApplication)
+2026-03-25 11:58:28 INFO com.financegov.FinanceGovApplication - No active profile set, falling back to 1 default profile: "default"
+2026-03-25 11:58:31 INFO com.financegov.FinanceGovApplication - Started FinanceGovApplication in 2.924 seconds (process running for 1322.234)
+2026-03-25 12:00:36 INFO com.financegov.FinanceGovApplication - Starting FinanceGovApplication using Java 21.0.8 with PID 23916 (C:\Users\2481778\Downloads\ProjectWorkspace\FinanceGovApplication\target\classes started by 2481778 in C:\Users\2481778\Downloads\ProjectWorkspace\FinanceGovApplication)
+2026-03-25 12:00:36 INFO com.financegov.FinanceGovApplication - No active profile set, falling back to 1 default profile: "default"
+2026-03-25 12:00:37 INFO com.financegov.FinanceGovApplication - Started FinanceGovApplication in 1.038 seconds (process running for 1448.48)
+2026-03-25 12:01:41 INFO com.financegov.service.impl.ComplianceRecordServiceImpl - Creating new compliance record
+2026-03-25 12:01:41 INFO com.financegov.service.impl.ComplianceRecordServiceImpl - Compliance record created with ID: 3
+2026-03-25 12:01:55 INFO com.financegov.service.impl.ComplianceRecordServiceImpl - Creating new compliance record
+2026-03-25 12:01:55 INFO com.financegov.service.impl.ComplianceRecordServiceImpl - Compliance record created with ID: 4
+2026-03-25 12:02:45 INFO com.financegov.service.impl.ComplianceRecordServiceImpl - Creating new compliance record
+2026-03-25 12:02:45 INFO com.financegov.service.impl.ComplianceRecordServiceImpl - Compliance record created with ID: 5
+2026-03-25 12:03:42 INFO com.financegov.FinanceGovApplication - Starting FinanceGovApplication using Java 21.0.8 with PID 23916 (C:\Users\2481778\Downloads\ProjectWorkspace\FinanceGovApplication\target\classes started by 2481778 in C:\Users\2481778\Downloads\ProjectWorkspace\FinanceGovApplication)
+2026-03-25 12:03:42 INFO com.financegov.FinanceGovApplication - No active profile set, falling back to 1 default profile: "default"
+2026-03-25 12:03:43 INFO com.financegov.FinanceGovApplication - Started FinanceGovApplication in 1.608 seconds (process running for 1635.002)
+2026-03-25 12:03:50 INFO com.financegov.FinanceGovApplication - Starting FinanceGovApplication using Java 21.0.8 with PID 23916 (C:\Users\2481778\Downloads\ProjectWorkspace\FinanceGovApplication\target\classes started by 2481778 in C:\Users\2481778\Downloads\ProjectWorkspace\FinanceGovApplication)
+2026-03-25 12:03:50 INFO com.financegov.FinanceGovApplication - No active profile set, falling back to 1 default profile: "default"
+2026-03-25 12:03:51 INFO com.financegov.FinanceGovApplication - Started FinanceGovApplication in 1.092 seconds (process running for 1642.875)
+2026-03-25 12:10:38 INFO com.financegov.service.impl.AuditServiceImpl - Creating new audit record
+2026-03-25 12:10:38 INFO com.financegov.service.impl.AuditServiceImpl - Audit record created with ID: 1
+2026-03-25 12:10:55 INFO com.financegov.service.impl.AuditServiceImpl - Updating audit record with ID: 1
+2026-03-25 12:10:55 INFO com.financegov.service.impl.AuditServiceImpl - Audit record updated successfully for ID: 1
+2026-03-25 12:11:12 INFO com.financegov.service.impl.AuditServiceImpl - Updating audit record with ID: 1
+2026-03-25 12:11:12 INFO com.financegov.service.impl.AuditServiceImpl - Audit record updated successfully for ID: 1
+2026-03-25 12:11:31 INFO com.financegov.service.impl.AuditServiceImpl - Updating audit record with ID: 1
+2026-03-25 12:11:31 INFO com.financegov.service.impl.AuditServiceImpl - Audit record updated successfully for ID: 1
+2026-03-25 12:11:46 INFO com.financegov.service.impl.AuditServiceImpl - Updating audit record with ID: 1
+2026-03-25 12:12:37 INFO com.financegov.FinanceGovApplication - Starting FinanceGovApplication using Java 21.0.8 with PID 23916 (C:\Users\2481778\Downloads\ProjectWorkspace\FinanceGovApplication\target\classes started by 2481778 in C:\Users\2481778\Downloads\ProjectWorkspace\FinanceGovApplication)
+2026-03-25 12:12:37 INFO com.financegov.FinanceGovApplication - No active profile set, falling back to 1 default profile: "default"
+2026-03-25 12:12:40 INFO com.financegov.FinanceGovApplication - Started FinanceGovApplication in 3.148 seconds (process running for 2171.922)
+2026-03-25 12:12:45 INFO com.financegov.service.impl.AuditServiceImpl - Updating audit record with ID: 1
+2026-03-25 12:12:51 INFO com.financegov.service.impl.AuditServiceImpl - Creating new audit record
+2026-03-25 12:12:51 INFO com.financegov.service.impl.AuditServiceImpl - Audit record created with ID: 2
+2026-03-25 12:13:01 INFO com.financegov.service.impl.AuditServiceImpl - Updating audit record with ID: 2
+2026-03-25 12:14:47 INFO com.financegov.FinanceGovApplication - Starting FinanceGovApplication using Java 21.0.8 with PID 23916 (C:\Users\2481778\Downloads\ProjectWorkspace\FinanceGovApplication\target\classes started by 2481778 in C:\Users\2481778\Downloads\ProjectWorkspace\FinanceGovApplication)
+2026-03-25 12:14:47 INFO com.financegov.FinanceGovApplication - No active profile set, falling back to 1 default profile: "default"
+2026-03-25 12:14:48 INFO com.financegov.FinanceGovApplication - Started FinanceGovApplication in 1.143 seconds (process running for 2299.534)
+2026-03-25 12:14:58 INFO com.financegov.service.impl.AuditServiceImpl - Updating audit record with ID: 2
+2026-03-25 12:15:12 INFO com.financegov.service.impl.AuditServiceImpl - Updating audit record with ID: 2
+2026-03-25 12:15:45 INFO com.financegov.FinanceGovApplication - Starting FinanceGovApplication using Java 21.0.8 with PID 23916 (C:\Users\2481778\Downloads\ProjectWorkspace\FinanceGovApplication\target\classes started by 2481778 in C:\Users\2481778\Downloads\ProjectWorkspace\FinanceGovApplication)
+2026-03-25 12:15:45 INFO com.financegov.FinanceGovApplication - No active profile set, falling back to 1 default profile: "default"
+2026-03-25 12:15:48 INFO com.financegov.FinanceGovApplication - Started FinanceGovApplication in 3.023 seconds (process running for 2359.535)
+2026-03-25 12:15:50 INFO com.financegov.service.impl.AuditServiceImpl - Updating audit record with ID: 2
+2026-03-25 12:15:56 INFO com.financegov.service.impl.AuditServiceImpl - Updating audit record with ID: 2
+2026-03-25 12:15:56 INFO com.financegov.service.impl.AuditServiceImpl - Audit record updated successfully for ID: 2
+2026-03-25 12:16:01 INFO com.financegov.service.impl.AuditServiceImpl - Updating audit record with ID: 2
+2026-03-25 12:17:56 INFO com.financegov.FinanceGovApplication - Starting FinanceGovApplication using Java 21.0.8 with PID 23916 (C:\Users\2481778\Downloads\ProjectWorkspace\FinanceGovApplication\target\classes started by 2481778 in C:\Users\2481778\Downloads\ProjectWorkspace\FinanceGovApplication)
+2026-03-25 12:17:56 INFO com.financegov.FinanceGovApplication - No active profile set, falling back to 1 default profile: "default"
+2026-03-25 12:17:58 INFO com.financegov.FinanceGovApplication - Started FinanceGovApplication in 2.181 seconds (process running for 2489.241)
+2026-03-25 12:18:00 INFO com.financegov.FinanceGovApplication - Starting FinanceGovApplication using Java 21.0.8 with PID 23916 (C:\Users\2481778\Downloads\ProjectWorkspace\FinanceGovApplication\target\classes started by 2481778 in C:\Users\2481778\Downloads\ProjectWorkspace\FinanceGovApplication)
+2026-03-25 12:18:00 INFO com.financegov.FinanceGovApplication - No active profile set, falling back to 1 default profile: "default"
+2026-03-25 12:18:02 INFO com.financegov.FinanceGovApplication - Started FinanceGovApplication in 2.295 seconds (process running for 2493.274)
+2026-03-25 12:18:02 INFO com.financegov.service.impl.AuditServiceImpl - Updating audit record with ID: 2
+2026-03-25 12:18:18 INFO com.financegov.service.impl.AuditServiceImpl - Updating audit record with ID: 2
+2026-03-25 12:18:18 INFO com.financegov.service.impl.AuditServiceImpl - Audit record updated successfully for ID: 2
+2026-03-25 12:18:20 INFO com.financegov.service.impl.AuditServiceImpl - Updating audit record with ID: 2
+2026-03-25 12:18:20 INFO com.financegov.service.impl.AuditServiceImpl - Audit record updated successfully for ID: 2
+2026-03-25 12:18:31 INFO com.financegov.service.impl.AuditServiceImpl - Updating audit record with ID: 2
+2026-03-25 12:18:31 INFO com.financegov.service.impl.AuditServiceImpl - Audit record updated successfully for ID: 2
+2026-03-25 12:18:33 INFO com.financegov.service.impl.AuditServiceImpl - Updating audit record with ID: 2
+2026-03-25 12:18:58 INFO com.financegov.FinanceGovApplication - Starting FinanceGovApplication using Java 21.0.8 with PID 23916 (C:\Users\2481778\Downloads\ProjectWorkspace\FinanceGovApplication\target\classes started by 2481778 in C:\Users\2481778\Downloads\ProjectWorkspace\FinanceGovApplication)
+2026-03-25 12:18:58 INFO com.financegov.FinanceGovApplication - No active profile set, falling back to 1 default profile: "default"
+2026-03-25 12:19:01 INFO com.financegov.FinanceGovApplication - Started FinanceGovApplication in 3.58 seconds (process running for 2552.888)
+2026-03-25 12:19:02 INFO com.financegov.service.impl.AuditServiceImpl - Updating audit record with ID: 2
+2026-03-25 12:20:56 INFO com.financegov.FinanceGovApplication - Starting FinanceGovApplication using Java 21.0.8 with PID 23916 (C:\Users\2481778\Downloads\ProjectWorkspace\FinanceGovApplication\target\classes started by 2481778 in C:\Users\2481778\Downloads\ProjectWorkspace\FinanceGovApplication)
+2026-03-25 12:20:56 INFO com.financegov.FinanceGovApplication - No active profile set, falling back to 1 default profile: "default"
+2026-03-25 12:20:59 INFO com.financegov.FinanceGovApplication - Started FinanceGovApplication in 3.279 seconds (process running for 2670.251)
+2026-03-25 12:21:00 INFO com.financegov.service.impl.ComplianceRecordServiceImpl - Fetching all compliance records
+2026-03-25 12:21:00 INFO com.financegov.service.impl.ComplianceRecordServiceImpl - Total compliance records fetched: 0
+2026-03-25 12:21:07 INFO com.financegov.service.impl.ComplianceRecordServiceImpl - Creating new compliance record
+2026-03-25 12:21:07 INFO com.financegov.service.impl.ComplianceRecordServiceImpl - Compliance record created with ID: 1
+2026-03-25 12:21:23 INFO com.financegov.service.impl.ComplianceRecordServiceImpl - Fetching compliance record with ID: 1
+2026-03-25 12:21:23 INFO com.financegov.service.impl.ComplianceRecordServiceImpl - Compliance record found for ID: 1
+2026-03-25 12:21:38 INFO com.financegov.service.impl.ComplianceRecordServiceImpl - Fetching compliance records for Entity ID: 2001
+2026-03-25 12:21:38 INFO com.financegov.service.impl.ComplianceRecordServiceImpl - Total records found for Entity ID 2001: 0
+2026-03-25 12:22:27 INFO com.financegov.service.impl.ComplianceRecordServiceImpl - Updating compliance record with ID: 1
+2026-03-25 12:22:27 INFO com.financegov.service.impl.ComplianceRecordServiceImpl - Compliance record updated successfully for ID: 1
+2026-03-25 12:22:40 INFO com.financegov.service.impl.ComplianceRecordServiceImpl - Updating compliance record with ID: 1
+2026-03-25 12:23:26 INFO com.financegov.service.impl.ComplianceRecordServiceImpl - Updating compliance record with ID: 1
+2026-03-25 12:23:26 INFO com.financegov.service.impl.ComplianceRecordServiceImpl - Compliance record updated successfully for ID: 1
+2026-03-25 12:23:28 INFO com.financegov.service.impl.ComplianceRecordServiceImpl - Updating compliance record with ID: 1
+2026-03-25 13:12:34 INFO com.financegov.FinanceGovApplication - Starting FinanceGovApplication using Java 21.0.8 with PID 23916 (C:\Users\2481778\Downloads\ProjectWorkspace\FinanceGovApplication\target\classes started by 2481778 in C:\Users\2481778\Downloads\ProjectWorkspace\FinanceGovApplication)
+2026-03-25 13:12:34 INFO com.financegov.FinanceGovApplication - No active profile set, falling back to 1 default profile: "default"
+2026-03-25 13:12:37 INFO com.financegov.FinanceGovApplication - Started FinanceGovApplication in 3.029 seconds (process running for 5768.555)
+2026-03-25 13:12:41 INFO com.financegov.service.impl.ComplianceRecordServiceImpl - Updating compliance record with ID: 1
+2026-03-25 13:13:48 INFO com.financegov.FinanceGovApplication - Starting FinanceGovApplication using Java 21.0.8 with PID 23916 (C:\Users\2481778\Downloads\ProjectWorkspace\FinanceGovApplication\target\classes started by 2481778 in C:\Users\2481778\Downloads\ProjectWorkspace\FinanceGovApplication)
+2026-03-25 13:13:48 INFO com.financegov.FinanceGovApplication - No active profile set, falling back to 1 default profile: "default"
+2026-03-25 13:13:51 INFO com.financegov.FinanceGovApplication - Started FinanceGovApplication in 2.723 seconds (process running for 5842.686)
+2026-03-25 13:13:53 INFO com.financegov.FinanceGovApplication - Starting FinanceGovApplication using Java 21.0.8 with PID 23916 (C:\Users\2481778\Downloads\ProjectWorkspace\FinanceGovApplication\target\classes started by 2481778 in C:\Users\2481778\Downloads\ProjectWorkspace\FinanceGovApplication)
+2026-03-25 13:13:53 INFO com.financegov.FinanceGovApplication - No active profile set, falling back to 1 default profile: "default"
+2026-03-25 13:13:56 INFO com.financegov.FinanceGovApplication - Started FinanceGovApplication in 2.899 seconds (process running for 5847.311)
+2026-03-25 13:13:57 INFO com.financegov.service.impl.ComplianceRecordServiceImpl - Attempting to delete compliance record with ID: 1
+2026-03-25 13:13:57 INFO com.financegov.service.impl.ComplianceRecordServiceImpl - Compliance record deleted successfully with ID: 1
+2026-03-25 13:14:11 INFO com.financegov.FinanceGovApplication - Starting FinanceGovApplication using Java 21.0.8 with PID 23916 (C:\Users\2481778\Downloads\ProjectWorkspace\FinanceGovApplication\target\classes started by 2481778 in C:\Users\2481778\Downloads\ProjectWorkspace\FinanceGovApplication)
+2026-03-25 13:14:11 INFO com.financegov.FinanceGovApplication - No active profile set, falling back to 1 default profile: "default"
+2026-03-25 13:14:14 INFO com.financegov.FinanceGovApplication - Started FinanceGovApplication in 2.424 seconds (process running for 5865.064)
+2026-03-25 13:14:15 INFO com.financegov.service.impl.ComplianceRecordServiceImpl - Creating new compliance record
+2026-03-25 13:14:15 INFO com.financegov.service.impl.ComplianceRecordServiceImpl - Compliance record created with ID: 1
+2026-03-25 13:14:28 INFO com.financegov.service.impl.ComplianceRecordServiceImpl - Updating compliance record with ID: 1
+2026-03-25 13:14:28 INFO com.financegov.service.impl.ComplianceRecordServiceImpl - Compliance record updated successfully for ID: 1
+2026-03-25 13:14:36 INFO com.financegov.service.impl.ComplianceRecordServiceImpl - Attempting to delete compliance record with ID: 1
+2026-03-25 13:14:36 INFO com.financegov.service.impl.ComplianceRecordServiceImpl - Compliance record deleted successfully with ID: 1
+2026-03-25 13:14:45 INFO com.financegov.FinanceGovApplication - Starting FinanceGovApplication using Java 21.0.8 with PID 23916 (C:\Users\2481778\Downloads\ProjectWorkspace\FinanceGovApplication\target\classes started by 2481778 in C:\Users\2481778\Downloads\ProjectWorkspace\FinanceGovApplication)
+2026-03-25 13:14:45 INFO com.financegov.FinanceGovApplication - No active profile set, falling back to 1 default profile: "default"
+2026-03-25 13:14:46 INFO com.financegov.FinanceGovApplication - Started FinanceGovApplication in 1.393 seconds (process running for 5897.503)
+2026-03-25 13:14:51 INFO com.financegov.service.impl.ComplianceRecordServiceImpl - Creating new compliance record
+2026-03-25 13:14:51 INFO com.financegov.service.impl.ComplianceRecordServiceImpl - Compliance record created with ID: 1
+2026-03-25 13:14:56 INFO com.financegov.service.impl.ComplianceRecordServiceImpl - Updating compliance record with ID: 1
+2026-03-25 13:14:56 INFO com.financegov.service.impl.ComplianceRecordServiceImpl - Compliance record updated successfully for ID: 1
+2026-03-25 13:15:06 INFO com.financegov.service.impl.ComplianceRecordServiceImpl - Updating compliance record with ID: 1
+2026-03-25 13:15:55 INFO com.financegov.FinanceGovApplication - Starting FinanceGovApplication using Java 21.0.8 with PID 23916 (C:\Users\2481778\Downloads\ProjectWorkspace\FinanceGovApplication\target\classes started by 2481778 in C:\Users\2481778\Downloads\ProjectWorkspace\FinanceGovApplication)
+2026-03-25 13:15:55 INFO com.financegov.FinanceGovApplication - No active profile set, falling back to 1 default profile: "default"
+2026-03-25 13:15:57 INFO com.financegov.FinanceGovApplication - Started FinanceGovApplication in 1.17 seconds (process running for 5968.121)
+2026-03-25 13:17:20 INFO com.financegov.FinanceGovApplication - Starting FinanceGovApplication using Java 21.0.8 with PID 23916 (C:\Users\2481778\Downloads\ProjectWorkspace\FinanceGovApplication\target\classes started by 2481778 in C:\Users\2481778\Downloads\ProjectWorkspace\FinanceGovApplication)
+2026-03-25 13:17:20 INFO com.financegov.FinanceGovApplication - No active profile set, falling back to 1 default profile: "default"
+2026-03-25 13:17:22 INFO com.financegov.FinanceGovApplication - Started FinanceGovApplication in 2.089 seconds (process running for 6053.176)
+2026-03-25 13:17:59 INFO com.financegov.service.impl.ComplianceRecordServiceImpl - Updating compliance record with ID: 1
+2026-03-25 13:18:17 INFO com.financegov.service.impl.ComplianceRecordServiceImpl - Fetching all compliance records
+2026-03-25 13:18:17 INFO com.financegov.service.impl.ComplianceRecordServiceImpl - Total compliance records fetched: 0
+2026-03-25 13:18:31 INFO com.financegov.service.impl.AuditServiceImpl - Fetching audit records for Officer ID: 2101
+2026-03-25 13:18:31 INFO com.financegov.service.impl.AuditServiceImpl - Total records found for Officer ID 2101: 0
+2026-03-25 13:19:05 INFO com.financegov.service.impl.AuditServiceImpl - Fetching all audit records
+2026-03-25 13:19:05 INFO com.financegov.service.impl.AuditServiceImpl - Total audit records fetched: 0
+2026-03-25 13:19:53 INFO com.financegov.service.impl.AuditServiceImpl - Attempting to delete audit record with ID: 1
+2026-03-25 13:19:53 INFO com.financegov.service.impl.AuditServiceImpl - Fetching audit record with ID: 1
+2026-03-25 13:19:53 WARN com.financegov.service.impl.AuditServiceImpl - Audit record not found for ID: 1
+2026-03-25 13:22:19 INFO com.financegov.FinanceGovApplication - Starting FinanceGovApplication using Java 21.0.8 with PID 23916 (C:\Users\2481778\Downloads\ProjectWorkspace\FinanceGovApplication\target\classes started by 2481778 in C:\Users\2481778\Downloads\ProjectWorkspace\FinanceGovApplication)
+2026-03-25 13:22:19 INFO com.financegov.FinanceGovApplication - No active profile set, falling back to 1 default profile: "default"
+2026-03-25 13:22:20 INFO com.financegov.FinanceGovApplication - Started FinanceGovApplication in 1.113 seconds (process running for 6351.51)
+2026-03-25 13:22:30 INFO com.financegov.service.impl.AuditServiceImpl - Fetching audit record with ID: 1
+2026-03-25 13:22:30 INFO com.financegov.service.impl.AuditServiceImpl - Audit record found for ID: 1
+2026-03-25 13:24:09 INFO com.financegov.FinanceGovApplication - Starting FinanceGovApplication using Java 21.0.8 with PID 23916 (C:\Users\2481778\Downloads\ProjectWorkspace\FinanceGovApplication\target\classes started by 2481778 in C:\Users\2481778\Downloads\ProjectWorkspace\FinanceGovApplication)
+2026-03-25 13:24:09 INFO com.financegov.FinanceGovApplication - No active profile set, falling back to 1 default profile: "default"
+2026-03-25 13:24:10 INFO com.financegov.FinanceGovApplication - Started FinanceGovApplication in 1.279 seconds (process running for 6461.971)
+2026-03-25 13:24:17 INFO com.financegov.FinanceGovApplication - Starting FinanceGovApplication using Java 21.0.8 with PID 23916 (C:\Users\2481778\Downloads\ProjectWorkspace\FinanceGovApplication\target\classes started by 2481778 in C:\Users\2481778\Downloads\ProjectWorkspace\FinanceGovApplication)
+2026-03-25 13:24:17 INFO com.financegov.FinanceGovApplication - No active profile set, falling back to 1 default profile: "default"
+2026-03-25 13:24:18 INFO com.financegov.FinanceGovApplication - Started FinanceGovApplication in 1.047 seconds (process running for 6469.735)
+2026-03-25 13:25:12 INFO com.financegov.FinanceGovApplication - Starting FinanceGovApplication using Java 21.0.8 with PID 23916 (C:\Users\2481778\Downloads\ProjectWorkspace\FinanceGovApplication\target\classes started by 2481778 in C:\Users\2481778\Downloads\ProjectWorkspace\FinanceGovApplication)
+2026-03-25 13:25:12 INFO com.financegov.FinanceGovApplication - No active profile set, falling back to 1 default profile: "default"
+2026-03-25 13:25:13 INFO com.financegov.FinanceGovApplication - Started FinanceGovApplication in 1.075 seconds (process running for 6525.024)
+2026-03-25 13:25:17 INFO com.financegov.service.impl.AuditServiceImpl - Fetching audit record with ID: 1
+2026-03-25 13:25:17 WARN com.financegov.service.impl.AuditServiceImpl - Audit record not found for ID: 1
+2026-03-25 13:26:54 INFO com.financegov.FinanceGovApplication - Starting FinanceGovApplication using Java 21.0.8 with PID 23916 (C:\Users\2481778\Downloads\ProjectWorkspace\FinanceGovApplication\target\classes started by 2481778 in C:\Users\2481778\Downloads\ProjectWorkspace\FinanceGovApplication)
+2026-03-25 13:26:54 INFO com.financegov.FinanceGovApplication - No active profile set, falling back to 1 default profile: "default"
+2026-03-25 13:26:55 INFO com.financegov.FinanceGovApplication - Started FinanceGovApplication in 1.235 seconds (process running for 6626.279)
+2026-03-25 13:27:22 INFO com.financegov.FinanceGovApplication - Starting FinanceGovApplication using Java 21.0.8 with PID 23916 (C:\Users\2481778\Downloads\ProjectWorkspace\FinanceGovApplication\target\classes started by 2481778 in C:\Users\2481778\Downloads\ProjectWorkspace\FinanceGovApplication)
+2026-03-25 13:27:22 INFO com.financegov.FinanceGovApplication - No active profile set, falling back to 1 default profile: "default"
+2026-03-25 13:27:25 INFO com.financegov.FinanceGovApplication - Started FinanceGovApplication in 2.86 seconds (process running for 6656.772)
+2026-03-25 13:27:27 INFO com.financegov.service.impl.ComplianceRecordServiceImpl - Creating new compliance record
+2026-03-25 13:27:40 INFO com.financegov.service.impl.ComplianceRecordServiceImpl - Creating new compliance record
+2026-03-25 13:27:45 INFO com.financegov.service.impl.ComplianceRecordServiceImpl - Creating new compliance record
+2026-03-25 13:28:46 INFO com.financegov.FinanceGovApplication - Starting FinanceGovApplication using Java 21.0.8 with PID 23916 (C:\Users\2481778\Downloads\ProjectWorkspace\FinanceGovApplication\target\classes started by 2481778 in C:\Users\2481778\Downloads\ProjectWorkspace\FinanceGovApplication)
+2026-03-25 13:28:46 INFO com.financegov.FinanceGovApplication - No active profile set, falling back to 1 default profile: "default"
+2026-03-25 13:28:48 INFO com.financegov.FinanceGovApplication - Started FinanceGovApplication in 1.767 seconds (process running for 6739.149)
+2026-03-25 13:31:17 INFO com.financegov.FinanceGovApplication - Starting FinanceGovApplication using Java 21.0.8 with PID 23916 (C:\Users\2481778\Downloads\ProjectWorkspace\FinanceGovApplication\target\classes started by 2481778 in C:\Users\2481778\Downloads\ProjectWorkspace\FinanceGovApplication)
+2026-03-25 13:31:17 INFO com.financegov.FinanceGovApplication - No active profile set, falling back to 1 default profile: "default"
+2026-03-25 13:31:18 INFO com.financegov.FinanceGovApplication - Started FinanceGovApplication in 0.99 seconds (process running for 6889.835)
+2026-03-25 13:32:03 INFO com.financegov.FinanceGovApplication - Starting FinanceGovApplication using Java 21.0.8 with PID 23916 (C:\Users\2481778\Downloads\ProjectWorkspace\FinanceGovApplication\target\classes started by 2481778 in C:\Users\2481778\Downloads\ProjectWorkspace\FinanceGovApplication)
+2026-03-25 13:32:03 INFO com.financegov.FinanceGovApplication - No active profile set, falling back to 1 default profile: "default"
+2026-03-25 13:32:04 INFO com.financegov.FinanceGovApplication - Started FinanceGovApplication in 1.016 seconds (process running for 6935.833)
+2026-03-25 13:35:47 INFO com.financegov.FinanceGovApplication - Starting FinanceGovApplication using Java 21.0.8 with PID 23916 (C:\Users\2481778\Downloads\ProjectWorkspace\FinanceGovApplication\target\classes started by 2481778 in C:\Users\2481778\Downloads\ProjectWorkspace\FinanceGovApplication)
+2026-03-25 13:35:47 INFO com.financegov.FinanceGovApplication - No active profile set, falling back to 1 default profile: "default"
+2026-03-25 13:35:48 INFO com.financegov.FinanceGovApplication - Started FinanceGovApplication in 1.091 seconds (process running for 7159.63)
+2026-03-25 13:36:56 INFO com.financegov.FinanceGovApplication - Starting FinanceGovApplication using Java 21.0.8 with PID 23916 (C:\Users\2481778\Downloads\ProjectWorkspace\FinanceGovApplication\target\classes started by 2481778 in C:\Users\2481778\Downloads\ProjectWorkspace\FinanceGovApplication)
+2026-03-25 13:36:56 INFO com.financegov.FinanceGovApplication - No active profile set, falling back to 1 default profile: "default"
+2026-03-25 13:37:11 INFO com.financegov.FinanceGovApplication - Starting FinanceGovApplication using Java 21.0.8 with PID 23916 (C:\Users\2481778\Downloads\ProjectWorkspace\FinanceGovApplication\target\classes started by 2481778 in C:\Users\2481778\Downloads\ProjectWorkspace\FinanceGovApplication)
+2026-03-25 13:37:11 INFO com.financegov.FinanceGovApplication - No active profile set, falling back to 1 default profile: "default"
+2026-03-25 13:37:12 INFO com.financegov.FinanceGovApplication - Started FinanceGovApplication in 1.125 seconds (process running for 7243.727)
+2026-03-25 13:37:43 INFO com.financegov.FinanceGovApplication - Starting FinanceGovApplication using Java 21.0.8 with PID 23916 (C:\Users\2481778\Downloads\ProjectWorkspace\FinanceGovApplication\target\classes started by 2481778 in C:\Users\2481778\Downloads\ProjectWorkspace\FinanceGovApplication)
+2026-03-25 13:37:43 INFO com.financegov.FinanceGovApplication - No active profile set, falling back to 1 default profile: "default"
+2026-03-25 13:37:44 INFO com.financegov.FinanceGovApplication - Started FinanceGovApplication in 1.146 seconds (process running for 7275.448)
+2026-03-25 13:37:47 INFO com.financegov.FinanceGovApplication - Starting FinanceGovApplication using Java 21.0.8 with PID 23916 (C:\Users\2481778\Downloads\ProjectWorkspace\FinanceGovApplication\target\classes started by 2481778 in C:\Users\2481778\Downloads\ProjectWorkspace\FinanceGovApplication)
+2026-03-25 13:37:47 INFO com.financegov.FinanceGovApplication - No active profile set, falling back to 1 default profile: "default"
+2026-03-25 13:37:48 INFO com.financegov.FinanceGovApplication - Started FinanceGovApplication in 1.142 seconds (process running for 7279.22)
+2026-03-25 13:38:27 INFO com.financegov.FinanceGovApplication - Starting FinanceGovApplication using Java 21.0.8 with PID 23916 (C:\Users\2481778\Downloads\ProjectWorkspace\FinanceGovApplication\target\classes started by 2481778 in C:\Users\2481778\Downloads\ProjectWorkspace\FinanceGovApplication)
+2026-03-25 13:38:27 INFO com.financegov.FinanceGovApplication - No active profile set, falling back to 1 default profile: "default"
+2026-03-25 13:38:28 INFO com.financegov.FinanceGovApplication - Started FinanceGovApplication in 1.183 seconds (process running for 7319.7)
+2026-03-25 13:39:54 INFO com.financegov.FinanceGovApplication - Starting FinanceGovApplication using Java 21.0.8 with PID 23916 (C:\Users\2481778\Downloads\ProjectWorkspace\FinanceGovApplication\target\classes started by 2481778 in C:\Users\2481778\Downloads\ProjectWorkspace\FinanceGovApplication)
+2026-03-25 13:39:54 INFO com.financegov.FinanceGovApplication - No active profile set, falling back to 1 default profile: "default"
+2026-03-25 13:39:55 INFO com.financegov.FinanceGovApplication - Started FinanceGovApplication in 1.399 seconds (process running for 7406.57)
+2026-03-25 13:40:37 INFO com.financegov.FinanceGovApplication - Starting FinanceGovApplication using Java 21.0.8 with PID 23916 (C:\Users\2481778\Downloads\ProjectWorkspace\FinanceGovApplication\target\classes started by 2481778 in C:\Users\2481778\Downloads\ProjectWorkspace\FinanceGovApplication)
+2026-03-25 13:40:37 INFO com.financegov.FinanceGovApplication - No active profile set, falling back to 1 default profile: "default"
+2026-03-25 13:40:38 INFO com.financegov.FinanceGovApplication - Started FinanceGovApplication in 1.219 seconds (process running for 7449.625)
+2026-03-25 13:43:36 INFO com.financegov.FinanceGovApplication - Starting FinanceGovApplication using Java 21.0.8 with PID 23916 (C:\Users\2481778\Downloads\ProjectWorkspace\FinanceGovApplication\target\classes started by 2481778 in C:\Users\2481778\Downloads\ProjectWorkspace\FinanceGovApplication)
+2026-03-25 13:43:36 INFO com.financegov.FinanceGovApplication - No active profile set, falling back to 1 default profile: "default"
+2026-03-25 13:43:40 INFO com.financegov.FinanceGovApplication - Started FinanceGovApplication in 3.929 seconds (process running for 7631.219)
+2026-03-25 13:43:46 INFO com.financegov.FinanceGovApplication - Starting FinanceGovApplication using Java 21.0.8 with PID 23916 (C:\Users\2481778\Downloads\ProjectWorkspace\FinanceGovApplication\target\classes started by 2481778 in C:\Users\2481778\Downloads\ProjectWorkspace\FinanceGovApplication)
+2026-03-25 13:43:46 INFO com.financegov.FinanceGovApplication - No active profile set, falling back to 1 default profile: "default"
+2026-03-25 13:43:48 INFO com.financegov.FinanceGovApplication - Started FinanceGovApplication in 1.296 seconds (process running for 7639.296)
+2026-03-25 13:44:24 INFO com.financegov.controller.ComplianceController - REST request to create a new compliance record
+2026-03-25 13:44:24 INFO com.financegov.service.impl.ComplianceRecordServiceImpl - Creating new compliance record
+2026-03-25 13:44:51 INFO com.financegov.FinanceGovApplication - Starting FinanceGovApplication using Java 21.0.8 with PID 23916 (C:\Users\2481778\Downloads\ProjectWorkspace\FinanceGovApplication\target\classes started by 2481778 in C:\Users\2481778\Downloads\ProjectWorkspace\FinanceGovApplication)
+2026-03-25 13:44:51 INFO com.financegov.FinanceGovApplication - No active profile set, falling back to 1 default profile: "default"
+2026-03-25 13:44:53 INFO com.financegov.FinanceGovApplication - Started FinanceGovApplication in 1.262 seconds (process running for 7704.075)
+2026-03-25 14:45:15 INFO com.financegov.FinanceGovApplication - Starting FinanceGovApplication using Java 21.0.8 with PID 23916 (C:\Users\2481778\Downloads\ProjectWorkspace\FinanceGovApplication\target\classes started by 2481778 in C:\Users\2481778\Downloads\ProjectWorkspace\FinanceGovApplication)
+2026-03-25 14:45:15 INFO com.financegov.FinanceGovApplication - No active profile set, falling back to 1 default profile: "default"
+2026-03-25 14:45:18 INFO com.financegov.FinanceGovApplication - Started FinanceGovApplication in 3.527 seconds (process running for 11329.737)
+2026-03-25 14:45:30 INFO com.financegov.FinanceGovApplication - Starting FinanceGovApplication using Java 21.0.8 with PID 23916 (C:\Users\2481778\Downloads\ProjectWorkspace\FinanceGovApplication\target\classes started by 2481778 in C:\Users\2481778\Downloads\ProjectWorkspace\FinanceGovApplication)
+2026-03-25 14:45:30 INFO com.financegov.FinanceGovApplication - No active profile set, falling back to 1 default profile: "default"
+2026-03-25 14:45:32 INFO com.financegov.FinanceGovApplication - Started FinanceGovApplication in 1.496 seconds (process running for 11343.077)
+2026-03-25 14:45:44 INFO com.financegov.controller.ComplianceController - REST request to create a new compliance record
+2026-03-25 14:45:44 INFO com.financegov.service.impl.ComplianceRecordServiceImpl - Creating new compliance record
+2026-03-25 14:45:44 INFO com.financegov.service.impl.ComplianceRecordServiceImpl - Compliance record created with ID: 1
+2026-03-25 14:45:54 INFO com.financegov.controller.ComplianceController - REST request to get all compliance records
+2026-03-25 14:45:54 INFO com.financegov.service.impl.ComplianceRecordServiceImpl - Fetching all compliance records
+2026-03-25 14:45:54 INFO com.financegov.service.impl.ComplianceRecordServiceImpl - Total compliance records fetched: 1
+2026-03-25 14:46:01 INFO com.financegov.controller.ComplianceController - REST request to get compliance record by ID: 1
+2026-03-25 14:46:01 INFO com.financegov.service.impl.ComplianceRecordServiceImpl - Fetching compliance record with ID: 1
+2026-03-25 14:46:01 INFO com.financegov.service.impl.ComplianceRecordServiceImpl - Compliance record found for ID: 1
+2026-03-25 14:46:08 INFO com.financegov.controller.ComplianceController - REST request to find compliance records for entity ID: 2000
+2026-03-25 14:46:08 INFO com.financegov.service.impl.ComplianceRecordServiceImpl - Fetching compliance records for Entity ID: 2000
+2026-03-25 14:46:08 INFO com.financegov.service.impl.ComplianceRecordServiceImpl - Total records found for Entity ID 2000: 1
+2026-03-25 14:46:16 INFO com.financegov.controller.ComplianceController - REST request to fetch compliance summary statistics
+2026-03-25 14:46:16 INFO com.financegov.service.impl.ComplianceRecordServiceImpl - Generating compliance summary by result status
+2026-03-25 14:46:16 INFO com.financegov.service.impl.ComplianceRecordServiceImpl - Compliance summary generated successfully
+2026-03-25 14:46:24 INFO com.financegov.controller.ComplianceController - REST request to update compliance record with ID: 1
+2026-03-25 14:46:24 INFO com.financegov.service.impl.ComplianceRecordServiceImpl - Updating compliance record with ID: 1
+2026-03-25 14:46:24 INFO com.financegov.service.impl.ComplianceRecordServiceImpl - Compliance record updated successfully for ID: 1
+2026-03-25 14:46:32 WARN com.financegov.controller.ComplianceController - REST request to delete compliance record with ID: 1
+2026-03-25 14:46:32 INFO com.financegov.service.impl.ComplianceRecordServiceImpl - Attempting to delete compliance record with ID: 1
+2026-03-25 14:46:32 INFO com.financegov.service.impl.ComplianceRecordServiceImpl - Compliance record deleted successfully with ID: 1
+2026-03-25 14:46:39 INFO com.financegov.controller.AuditController - REST request to create a new audit record
+2026-03-25 14:46:39 INFO com.financegov.service.impl.AuditServiceImpl - Creating new audit record
+2026-03-25 14:46:39 INFO com.financegov.service.impl.AuditServiceImpl - Audit record created with ID: 1
+2026-03-25 14:46:44 INFO com.financegov.controller.AuditController - REST request to get all audit records
+2026-03-25 14:46:44 INFO com.financegov.service.impl.AuditServiceImpl - Fetching all audit records
+2026-03-25 14:46:44 INFO com.financegov.service.impl.AuditServiceImpl - Total audit records fetched: 1
+2026-03-25 14:46:50 INFO com.financegov.controller.AuditController - REST request to get audit record by ID: 1
+2026-03-25 14:46:50 INFO com.financegov.service.impl.AuditServiceImpl - Fetching audit record with ID: 1
+2026-03-25 14:46:50 INFO com.financegov.service.impl.AuditServiceImpl - Audit record found for ID: 1
+2026-03-25 14:46:56 INFO com.financegov.controller.AuditController - REST request to find audit records for officer ID: 2101
+2026-03-25 14:46:56 INFO com.financegov.service.impl.AuditServiceImpl - Fetching audit records for Officer ID: 2101
+2026-03-25 14:46:56 INFO com.financegov.service.impl.AuditServiceImpl - Total records found for Officer ID 2101: 1
+2026-03-25 14:47:00 INFO com.financegov.controller.AuditController - REST request to fetch audit summary statistics
+2026-03-25 14:47:00 INFO com.financegov.service.impl.AuditServiceImpl - Generating audit summary by status
+2026-03-25 14:47:00 INFO com.financegov.service.impl.AuditServiceImpl - Audit summary generated successfully
+2026-03-25 14:47:05 INFO com.financegov.controller.AuditController - REST request to update audit record with ID: 2
+2026-03-25 14:47:05 INFO com.financegov.service.impl.AuditServiceImpl - Updating audit record with ID: 2
+2026-03-25 14:47:10 INFO com.financegov.controller.AuditController - REST request to update audit record with ID: 1
+2026-03-25 14:47:10 INFO com.financegov.service.impl.AuditServiceImpl - Updating audit record with ID: 1
+2026-03-25 14:47:10 INFO com.financegov.service.impl.AuditServiceImpl - Audit record updated successfully for ID: 1
+2026-03-25 14:47:14 WARN com.financegov.controller.AuditController - REST request to delete audit record with ID: 1
+2026-03-25 14:47:14 INFO com.financegov.service.impl.AuditServiceImpl - Attempting to delete audit record with ID: 1
+2026-03-25 14:47:14 INFO com.financegov.service.impl.AuditServiceImpl - Fetching audit record with ID: 1
+2026-03-25 14:47:14 INFO com.financegov.service.impl.AuditServiceImpl - Audit record found for ID: 1
+2026-03-25 14:47:14 INFO com.financegov.service.impl.AuditServiceImpl - Audit record deleted successfully with ID: 1
+2026-03-25 14:47:24 INFO com.financegov.FinanceGovApplication - Starting FinanceGovApplication using Java 21.0.8 with PID 23916 (C:\Users\2481778\Downloads\ProjectWorkspace\FinanceGovApplication\target\classes started by 2481778 in C:\Users\2481778\Downloads\ProjectWorkspace\FinanceGovApplication)
+2026-03-25 14:47:24 INFO com.financegov.FinanceGovApplication - No active profile set, falling back to 1 default profile: "default"
+2026-03-25 14:47:26 INFO com.financegov.FinanceGovApplication - Started FinanceGovApplication in 1.811 seconds (process running for 11457.475)
+2026-03-25 14:47:33 INFO com.financegov.FinanceGovApplication - Starting FinanceGovApplication using Java 21.0.8 with PID 23916 (C:\Users\2481778\Downloads\ProjectWorkspace\FinanceGovApplication\target\classes started by 2481778 in C:\Users\2481778\Downloads\ProjectWorkspace\FinanceGovApplication)
+2026-03-25 14:47:33 INFO com.financegov.FinanceGovApplication - No active profile set, falling back to 1 default profile: "default"
+2026-03-25 14:47:34 INFO com.financegov.FinanceGovApplication - Started FinanceGovApplication in 0.978 seconds (process running for 11465.186)
+2026-03-25 15:37:41 INFO com.financegov.FinanceGovApplication - Starting FinanceGovApplication using Java 21.0.8 with PID 23916 (C:\Users\2481778\Downloads\ProjectWorkspace\FinanceGovApplication\target\classes started by 2481778 in C:\Users\2481778\Downloads\ProjectWorkspace\FinanceGovApplication)
+2026-03-25 15:37:41 INFO com.financegov.FinanceGovApplication - No active profile set, falling back to 1 default profile: "default"
+2026-03-25 15:37:44 INFO com.financegov.FinanceGovApplication - Started FinanceGovApplication in 3.31 seconds (process running for 14475.356)
+2026-03-25 15:44:26 INFO com.financegov.controller.ComplianceController - REST request to create a new compliance record
+2026-03-25 15:44:26 INFO com.financegov.service.impl.ComplianceRecordServiceImpl - Creating new compliance record
+2026-03-25 15:44:26 INFO com.financegov.service.impl.ComplianceRecordServiceImpl - Compliance record created with ID: 1
+2026-03-25 15:44:38 INFO com.financegov.controller.ComplianceController - REST request to get all compliance records
+2026-03-25 15:44:38 INFO com.financegov.service.impl.ComplianceRecordServiceImpl - Fetching all compliance records
+2026-03-25 15:44:38 INFO com.financegov.service.impl.ComplianceRecordServiceImpl - Total compliance records fetched: 1
+2026-03-25 15:44:48 INFO com.financegov.controller.ComplianceController - REST request to get compliance record by ID: 1
+2026-03-25 15:44:48 INFO com.financegov.service.impl.ComplianceRecordServiceImpl - Fetching compliance record with ID: 1
+2026-03-25 15:44:48 INFO com.financegov.service.impl.ComplianceRecordServiceImpl - Compliance record found for ID: 1
+2026-03-25 15:44:55 INFO com.financegov.controller.ComplianceController - REST request to find compliance records for entity ID: 2000
+2026-03-25 15:44:55 INFO com.financegov.service.impl.ComplianceRecordServiceImpl - Fetching compliance records for Entity ID: 2000
+2026-03-25 15:44:55 INFO com.financegov.service.impl.ComplianceRecordServiceImpl - Total records found for Entity ID 2000: 1
+2026-03-25 15:45:24 INFO com.financegov.controller.ComplianceController - REST request to fetch compliance summary statistics
+2026-03-25 15:45:24 INFO com.financegov.service.impl.ComplianceRecordServiceImpl - Generating compliance summary by result status
+2026-03-25 15:45:24 INFO com.financegov.service.impl.ComplianceRecordServiceImpl - Compliance summary generated successfully
+2026-03-25 15:45:50 INFO com.financegov.controller.ComplianceController - REST request to update compliance record with ID: 1
+2026-03-25 15:45:50 INFO com.financegov.service.impl.ComplianceRecordServiceImpl - Updating compliance record with ID: 1
+2026-03-25 15:45:50 INFO com.financegov.service.impl.ComplianceRecordServiceImpl - Compliance record updated successfully for ID: 1
+2026-03-25 15:46:00 WARN com.financegov.controller.ComplianceController - REST request to delete compliance record with ID: 1
+2026-03-25 15:46:00 INFO com.financegov.service.impl.ComplianceRecordServiceImpl - Attempting to delete compliance record with ID: 1
+2026-03-25 15:46:00 INFO com.financegov.service.impl.ComplianceRecordServiceImpl - Compliance record deleted successfully with ID: 1
+2026-03-25 15:46:05 WARN com.financegov.controller.ComplianceController - REST request to delete compliance record with ID: 1
+2026-03-25 15:46:05 INFO com.financegov.service.impl.ComplianceRecordServiceImpl - Attempting to delete compliance record with ID: 1
+2026-03-25 15:46:05 WARN com.financegov.service.impl.ComplianceRecordServiceImpl - Delete failed — compliance ID 1 not found
+2026-03-25 15:46:12 INFO com.financegov.controller.ComplianceController - REST request to create a new compliance record
+2026-03-25 15:46:12 INFO com.financegov.service.impl.ComplianceRecordServiceImpl - Creating new compliance record
+2026-03-25 15:46:12 INFO com.financegov.service.impl.ComplianceRecordServiceImpl - Compliance record created with ID: 2
+2026-03-25 15:46:20 INFO com.financegov.controller.ComplianceController - REST request to update compliance record with ID: 2
+2026-03-25 15:46:20 INFO com.financegov.service.impl.ComplianceRecordServiceImpl - Updating compliance record with ID: 2
+2026-03-25 15:46:20 INFO com.financegov.service.impl.ComplianceRecordServiceImpl - Compliance record updated successfully for ID: 2
+2026-03-25 15:46:26 INFO com.financegov.controller.ComplianceController - REST request to update compliance record with ID: 2
+2026-03-25 15:46:26 INFO com.financegov.service.impl.ComplianceRecordServiceImpl - Updating compliance record with ID: 2
+2026-03-25 15:46:36 INFO com.financegov.controller.AuditController - REST request to create a new audit record
+2026-03-25 15:46:36 INFO com.financegov.service.impl.AuditServiceImpl - Creating new audit record
+2026-03-25 15:46:36 INFO com.financegov.service.impl.AuditServiceImpl - Audit record created with ID: 1
+2026-03-25 15:46:52 INFO com.financegov.controller.AuditController - REST request to get all audit records
+2026-03-25 15:46:52 INFO com.financegov.service.impl.AuditServiceImpl - Fetching all audit records
+2026-03-25 15:46:52 INFO com.financegov.service.impl.AuditServiceImpl - Total audit records fetched: 1
+2026-03-25 15:46:57 INFO com.financegov.controller.AuditController - REST request to get audit record by ID: 1
+2026-03-25 15:46:57 INFO com.financegov.service.impl.AuditServiceImpl - Fetching audit record with ID: 1
+2026-03-25 15:46:57 INFO com.financegov.service.impl.AuditServiceImpl - Audit record found for ID: 1
+2026-03-25 15:47:03 INFO com.financegov.controller.AuditController - REST request to find audit records for officer ID: 2101
+2026-03-25 15:47:03 INFO com.financegov.service.impl.AuditServiceImpl - Fetching audit records for Officer ID: 2101
+2026-03-25 15:47:03 INFO com.financegov.service.impl.AuditServiceImpl - Total records found for Officer ID 2101: 1
+2026-03-25 15:47:12 INFO com.financegov.controller.AuditController - REST request to fetch audit summary statistics
+2026-03-25 15:47:12 INFO com.financegov.service.impl.AuditServiceImpl - Generating audit summary by status
+2026-03-25 15:47:12 INFO com.financegov.service.impl.AuditServiceImpl - Audit summary generated successfully
+2026-03-25 15:47:19 INFO com.financegov.controller.AuditController - REST request to update audit record with ID: 1
+2026-03-25 15:47:19 INFO com.financegov.service.impl.AuditServiceImpl - Updating audit record with ID: 1
+2026-03-25 15:47:19 INFO com.financegov.service.impl.AuditServiceImpl - Audit record updated successfully for ID: 1
+2026-03-25 15:47:29 INFO com.financegov.controller.AuditController - REST request to update audit record with ID: 1
+2026-03-25 15:47:29 INFO com.financegov.service.impl.AuditServiceImpl - Updating audit record with ID: 1
+2026-03-25 15:47:35 WARN com.financegov.controller.AuditController - REST request to delete audit record with ID: 1
+2026-03-25 15:47:35 INFO com.financegov.service.impl.AuditServiceImpl - Attempting to delete audit record with ID: 1
+2026-03-25 15:47:35 INFO com.financegov.service.impl.AuditServiceImpl - Fetching audit record with ID: 1
+2026-03-25 15:47:35 INFO com.financegov.service.impl.AuditServiceImpl - Audit record found for ID: 1
+2026-03-25 15:47:35 INFO com.financegov.service.impl.AuditServiceImpl - Audit record deleted successfully with ID: 1
+2026-03-25 15:47:39 WARN com.financegov.controller.AuditController - REST request to delete audit record with ID: 1
+2026-03-25 15:47:39 INFO com.financegov.service.impl.AuditServiceImpl - Attempting to delete audit record with ID: 1
+2026-03-25 15:47:39 INFO com.financegov.service.impl.AuditServiceImpl - Fetching audit record with ID: 1
+2026-03-25 15:47:39 WARN com.financegov.service.impl.AuditServiceImpl - Audit record not found for ID: 1

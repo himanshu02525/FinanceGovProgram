@@ -1,0 +1,317 @@
+2026-03-31 10:15:55 INFO com.financegov.FinanceGovApplication - Starting FinanceGovApplication using Java 21.0.8 with PID 20068 (C:\Users\2481778\Downloads\ProjectWorkspace\FinanceGovApplication\target\classes started by 2481778 in C:\Users\2481778\Downloads\ProjectWorkspace\FinanceGovApplication)
+2026-03-31 10:15:55 INFO com.financegov.FinanceGovApplication - No active profile set, falling back to 1 default profile: "default"
+2026-03-31 10:16:20 INFO com.financegov.FinanceGovApplication - Started FinanceGovApplication in 26.726 seconds (process running for 29.294)
+2026-03-31 10:16:44 INFO com.financegov.controller.CitizenBusinessController - Fetching all citizens
+2026-03-31 10:16:44 INFO com.financegov.service.CitizenBusinessServiceImpl - Fetching all entities
+2026-03-31 10:16:47 INFO com.financegov.controller.CitizenBusinessController - Fetching all citizens
+2026-03-31 10:16:47 INFO com.financegov.service.CitizenBusinessServiceImpl - Fetching all entities
+2026-03-31 10:17:02 INFO com.financegov.controller.ComplianceController - REST request to create a new compliance record
+2026-03-31 10:17:02 INFO com.financegov.service.ComplianceRecordServiceImpl - Creating new compliance record
+2026-03-31 10:17:25 INFO com.financegov.controller.ComplianceController - REST request to create a new compliance record
+2026-03-31 10:17:25 INFO com.financegov.service.ComplianceRecordServiceImpl - Creating new compliance record
+2026-03-31 10:17:25 INFO com.financegov.service.ComplianceRecordServiceImpl - Compliance record created with ID: 9
+2026-03-31 10:17:34 INFO com.financegov.controller.ComplianceController - REST request to create a new compliance record
+2026-03-31 10:17:34 INFO com.financegov.service.ComplianceRecordServiceImpl - Creating new compliance record
+2026-03-31 10:18:35 INFO com.financegov.controller.ComplianceController - REST request to get all compliance records
+2026-03-31 10:18:35 INFO com.financegov.service.ComplianceRecordServiceImpl - Fetching all compliance records
+2026-03-31 10:18:35 INFO com.financegov.service.ComplianceRecordServiceImpl - Total compliance records fetched: 5
+2026-03-31 10:18:38 INFO com.financegov.controller.ComplianceController - REST request to get all compliance records
+2026-03-31 10:18:38 INFO com.financegov.service.ComplianceRecordServiceImpl - Fetching all compliance records
+2026-03-31 10:18:38 INFO com.financegov.service.ComplianceRecordServiceImpl - Total compliance records fetched: 5
+2026-03-31 10:23:18 INFO com.financegov.FinanceGovApplication - Starting FinanceGovApplication using Java 21.0.8 with PID 20068 (C:\Users\2481778\Downloads\ProjectWorkspace\FinanceGovApplication\target\classes started by 2481778 in C:\Users\2481778\Downloads\ProjectWorkspace\FinanceGovApplication)
+2026-03-31 10:23:18 INFO com.financegov.FinanceGovApplication - No active profile set, falling back to 1 default profile: "default"
+2026-03-31 10:23:22 INFO com.financegov.FinanceGovApplication - Started FinanceGovApplication in 4.432 seconds (process running for 451.592)
+2026-03-31 10:23:26 INFO com.financegov.FinanceGovApplication - Starting FinanceGovApplication using Java 21.0.8 with PID 20068 (C:\Users\2481778\Downloads\ProjectWorkspace\FinanceGovApplication\target\classes started by 2481778 in C:\Users\2481778\Downloads\ProjectWorkspace\FinanceGovApplication)
+2026-03-31 10:23:26 INFO com.financegov.FinanceGovApplication - No active profile set, falling back to 1 default profile: "default"
+2026-03-31 10:23:29 INFO com.financegov.FinanceGovApplication - Started FinanceGovApplication in 2.829 seconds (process running for 458.401)
+2026-03-31 10:25:18 INFO com.financegov.FinanceGovApplication - Starting FinanceGovApplication using Java 21.0.8 with PID 20068 (C:\Users\2481778\Downloads\ProjectWorkspace\FinanceGovApplication\target\classes started by 2481778 in C:\Users\2481778\Downloads\ProjectWorkspace\FinanceGovApplication)
+2026-03-31 10:25:18 INFO com.financegov.FinanceGovApplication - No active profile set, falling back to 1 default profile: "default"
+2026-03-31 10:36:49 INFO com.financegov.FinanceGovApplication - Starting FinanceGovApplication using Java 21.0.8 with PID 22148 (C:\Users\2481778\Downloads\ProjectWorkspace\FinanceGovApplication\target\classes started by 2481778 in C:\Users\2481778\Downloads\ProjectWorkspace\FinanceGovApplication)
+2026-03-31 10:36:49 INFO com.financegov.FinanceGovApplication - No active profile set, falling back to 1 default profile: "default"
+2026-03-31 10:56:13 INFO com.financegov.FinanceGovApplication - Starting FinanceGovApplication using Java 21.0.8 with PID 9004 (C:\Users\2481778\Downloads\ProjectWorkspace\FinanceGovApplication\target\classes started by 2481778 in C:\Users\2481778\Downloads\ProjectWorkspace\FinanceGovApplication)
+2026-03-31 10:56:13 INFO com.financegov.FinanceGovApplication - No active profile set, falling back to 1 default profile: "default"
+2026-03-31 10:59:27 INFO com.financegov.FinanceGovApplication - Starting FinanceGovApplication using Java 21.0.8 with PID 16812 (C:\Users\2481778\Downloads\ProjectWorkspace\FinanceGovApplication\target\classes started by 2481778 in C:\Users\2481778\Downloads\ProjectWorkspace\FinanceGovApplication)
+2026-03-31 10:59:27 INFO com.financegov.FinanceGovApplication - No active profile set, falling back to 1 default profile: "default"
+2026-03-31 11:01:55 INFO com.financegov.FinanceGovApplication - Starting FinanceGovApplication using Java 21.0.8 with PID 18608 (C:\Users\2481778\Downloads\ProjectWorkspace\FinanceGovApplication\target\classes started by 2481778 in C:\Users\2481778\Downloads\ProjectWorkspace\FinanceGovApplication)
+2026-03-31 11:01:55 INFO com.financegov.FinanceGovApplication - No active profile set, falling back to 1 default profile: "default"
+2026-03-31 11:02:10 INFO com.financegov.FinanceGovApplication - Started FinanceGovApplication in 16.01 seconds (process running for 17.304)
+2026-03-31 11:03:29 INFO com.financegov.FinanceGovApplication - Starting FinanceGovApplication using Java 21.0.8 with PID 23236 (C:\Users\2481778\Downloads\ProjectWorkspace\FinanceGovApplication\target\classes started by 2481778 in C:\Users\2481778\Downloads\ProjectWorkspace\FinanceGovApplication)
+2026-03-31 11:03:29 INFO com.financegov.FinanceGovApplication - No active profile set, falling back to 1 default profile: "default"
+2026-03-31 11:03:46 INFO com.financegov.FinanceGovApplication - Started FinanceGovApplication in 17.073 seconds (process running for 18.37)
+2026-03-31 11:04:42 INFO com.financegov.FinanceGovApplication - Starting FinanceGovApplication using Java 21.0.8 with PID 10668 (C:\Users\2481778\Downloads\ProjectWorkspace\FinanceGovApplication\target\classes started by 2481778 in C:\Users\2481778\Downloads\ProjectWorkspace\FinanceGovApplication)
+2026-03-31 11:04:42 INFO com.financegov.FinanceGovApplication - No active profile set, falling back to 1 default profile: "default"
+2026-03-31 11:04:59 INFO com.financegov.FinanceGovApplication - Started FinanceGovApplication in 17.818 seconds (process running for 19.567)
+2026-03-31 11:07:53 INFO com.financegov.FinanceGovApplication - Starting FinanceGovApplication using Java 21.0.8 with PID 24084 (C:\Users\2481778\Downloads\ProjectWorkspace\FinanceGovApplication\target\classes started by 2481778 in C:\Users\2481778\Downloads\ProjectWorkspace\FinanceGovApplication)
+2026-03-31 11:07:53 INFO com.financegov.FinanceGovApplication - No active profile set, falling back to 1 default profile: "default"
+2026-03-31 11:08:29 INFO com.financegov.FinanceGovApplication - Started FinanceGovApplication in 37.921 seconds (process running for 39.732)
+2026-03-31 11:09:08 INFO com.financegov.FinanceGovApplication - Starting FinanceGovApplication using Java 21.0.8 with PID 13972 (C:\Users\2481778\Downloads\ProjectWorkspace\FinanceGovApplication\target\classes started by 2481778 in C:\Users\2481778\Downloads\ProjectWorkspace\FinanceGovApplication)
+2026-03-31 11:09:08 INFO com.financegov.FinanceGovApplication - No active profile set, falling back to 1 default profile: "default"
+2026-03-31 11:09:47 INFO com.financegov.FinanceGovApplication - Started FinanceGovApplication in 41.0 seconds (process running for 42.951)
+2026-03-31 11:09:48 INFO com.financegov.config.AdminInitializer - 🔥 ADMIN CREATED SUCCESSFULLY!
+2026-03-31 11:09:48 INFO com.financegov.config.AdminInitializer - Email: admin@financegov.com
+2026-03-31 11:09:48 INFO com.financegov.config.AdminInitializer - Password: Admin@1234
+2026-03-31 11:11:03 WARN com.financegov.exceptions.GlobalExceptionHandler - Authentication failed: Full authentication is required to access this resource
+2026-03-31 11:11:42 WARN com.financegov.exceptions.GlobalExceptionHandler - Authentication failed: Full authentication is required to access this resource
+2026-03-31 11:14:40 WARN com.financegov.exceptions.GlobalExceptionHandler - Authentication failed: Full authentication is required to access this resource
+2026-03-31 11:14:40 WARN com.financegov.exceptions.GlobalExceptionHandler - Authentication failed: Full authentication is required to access this resource
+2026-03-31 11:14:43 WARN com.financegov.exceptions.GlobalExceptionHandler - Authentication failed: Full authentication is required to access this resource
+2026-03-31 11:14:43 WARN com.financegov.exceptions.GlobalExceptionHandler - Authentication failed: Full authentication is required to access this resource
+2026-03-31 11:14:43 WARN com.financegov.exceptions.GlobalExceptionHandler - Authentication failed: Full authentication is required to access this resource
+2026-03-31 11:14:43 WARN com.financegov.exceptions.GlobalExceptionHandler - Authentication failed: Full authentication is required to access this resource
+2026-03-31 11:14:43 WARN com.financegov.exceptions.GlobalExceptionHandler - Authentication failed: Full authentication is required to access this resource
+2026-03-31 11:14:44 WARN com.financegov.exceptions.GlobalExceptionHandler - Authentication failed: Full authentication is required to access this resource
+2026-03-31 11:14:50 WARN com.financegov.exceptions.GlobalExceptionHandler - Authentication failed: Full authentication is required to access this resource
+2026-03-31 11:14:52 WARN com.financegov.exceptions.GlobalExceptionHandler - Authentication failed: Full authentication is required to access this resource
+2026-03-31 11:14:52 WARN com.financegov.exceptions.GlobalExceptionHandler - Authentication failed: Full authentication is required to access this resource
+2026-03-31 11:14:53 WARN com.financegov.exceptions.GlobalExceptionHandler - Authentication failed: Full authentication is required to access this resource
+2026-03-31 11:14:53 WARN com.financegov.exceptions.GlobalExceptionHandler - Authentication failed: Full authentication is required to access this resource
+2026-03-31 11:14:53 WARN com.financegov.exceptions.GlobalExceptionHandler - Authentication failed: Full authentication is required to access this resource
+2026-03-31 11:14:53 WARN com.financegov.exceptions.GlobalExceptionHandler - Authentication failed: Full authentication is required to access this resource
+2026-03-31 11:16:55 INFO com.financegov.FinanceGovApplication - Starting FinanceGovApplication using Java 21.0.8 with PID 1736 (C:\Users\2481778\Downloads\ProjectWorkspace\FinanceGovApplication\target\classes started by 2481778 in C:\Users\2481778\Downloads\ProjectWorkspace\FinanceGovApplication)
+2026-03-31 11:16:55 INFO com.financegov.FinanceGovApplication - No active profile set, falling back to 1 default profile: "default"
+2026-03-31 11:17:19 INFO com.financegov.FinanceGovApplication - Started FinanceGovApplication in 24.706 seconds (process running for 26.293)
+2026-03-31 11:17:20 INFO com.financegov.config.AdminInitializer - Admin already exists. Skipping creation.
+2026-03-31 11:18:16 WARN com.financegov.exceptions.GlobalExceptionHandler - Authentication failed: Full authentication is required to access this resource
+2026-03-31 11:18:16 WARN com.financegov.exceptions.GlobalExceptionHandler - Authentication failed: Full authentication is required to access this resource
+2026-03-31 11:20:08 INFO com.financegov.FinanceGovApplication - Starting FinanceGovApplication using Java 21.0.8 with PID 1736 (C:\Users\2481778\Downloads\ProjectWorkspace\FinanceGovApplication\target\classes started by 2481778 in C:\Users\2481778\Downloads\ProjectWorkspace\FinanceGovApplication)
+2026-03-31 11:20:08 INFO com.financegov.FinanceGovApplication - No active profile set, falling back to 1 default profile: "default"
+2026-03-31 11:20:12 INFO com.financegov.FinanceGovApplication - Started FinanceGovApplication in 3.902 seconds (process running for 198.901)
+2026-03-31 11:20:12 INFO com.financegov.config.AdminInitializer - Admin already exists. Skipping creation.
+2026-03-31 11:20:59 WARN com.financegov.exceptions.GlobalExceptionHandler - Authentication failed: Full authentication is required to access this resource
+2026-03-31 11:20:59 WARN com.financegov.exceptions.GlobalExceptionHandler - Authentication failed: Full authentication is required to access this resource
+2026-03-31 11:20:59 WARN com.financegov.exceptions.GlobalExceptionHandler - Authentication failed: Full authentication is required to access this resource
+2026-03-31 11:21:25 INFO com.financegov.FinanceGovApplication - Starting FinanceGovApplication using Java 21.0.8 with PID 1736 (C:\Users\2481778\Downloads\ProjectWorkspace\FinanceGovApplication\target\classes started by 2481778 in C:\Users\2481778\Downloads\ProjectWorkspace\FinanceGovApplication)
+2026-03-31 11:21:25 INFO com.financegov.FinanceGovApplication - No active profile set, falling back to 1 default profile: "default"
+2026-03-31 11:21:28 INFO com.financegov.FinanceGovApplication - Started FinanceGovApplication in 3.975 seconds (process running for 275.862)
+2026-03-31 11:21:29 INFO com.financegov.config.AdminInitializer - Admin already exists. Skipping creation.
+2026-03-31 11:22:26 INFO com.financegov.FinanceGovApplication - Starting FinanceGovApplication using Java 21.0.8 with PID 1736 (C:\Users\2481778\Downloads\ProjectWorkspace\FinanceGovApplication\target\classes started by 2481778 in C:\Users\2481778\Downloads\ProjectWorkspace\FinanceGovApplication)
+2026-03-31 11:22:26 INFO com.financegov.FinanceGovApplication - No active profile set, falling back to 1 default profile: "default"
+2026-03-31 11:22:32 INFO com.financegov.FinanceGovApplication - Started FinanceGovApplication in 6.594 seconds (process running for 339.382)
+2026-03-31 11:22:32 INFO com.financegov.config.AdminInitializer - Admin already exists. Skipping creation.
+2026-03-31 11:22:54 INFO com.financegov.controller.AuthController - New user registration attempt: ritesh
+2026-03-31 11:22:54 INFO com.financegov.service.AuthServiceImpl - Registering new citizen: kulkarniritesh57@gmail.com
+2026-03-31 11:22:54 WARN com.financegov.exceptions.GlobalExceptionHandler - Business error: Critical Error: Default role not found.
+2026-03-31 11:23:22 INFO com.financegov.FinanceGovApplication - Starting FinanceGovApplication using Java 21.0.8 with PID 1736 (C:\Users\2481778\Downloads\ProjectWorkspace\FinanceGovApplication\target\classes started by 2481778 in C:\Users\2481778\Downloads\ProjectWorkspace\FinanceGovApplication)
+2026-03-31 11:23:22 INFO com.financegov.FinanceGovApplication - No active profile set, falling back to 1 default profile: "default"
+2026-03-31 11:23:28 INFO com.financegov.FinanceGovApplication - Started FinanceGovApplication in 6.502 seconds (process running for 395.318)
+2026-03-31 11:23:28 INFO com.financegov.config.AdminInitializer - Admin already exists. Skipping creation.
+2026-03-31 11:23:32 INFO com.financegov.controller.AuthController - New user registration attempt: ritesh
+2026-03-31 11:23:32 INFO com.financegov.service.AuthServiceImpl - Registering new citizen: kulkarniritesh57@gmail.com
+2026-03-31 11:23:32 WARN com.financegov.exceptions.GlobalExceptionHandler - Business error: Critical Error: Default role not found.
+2026-03-31 11:25:13 INFO com.financegov.FinanceGovApplication - Starting FinanceGovApplication using Java 21.0.8 with PID 1736 (C:\Users\2481778\Downloads\ProjectWorkspace\FinanceGovApplication\target\classes started by 2481778 in C:\Users\2481778\Downloads\ProjectWorkspace\FinanceGovApplication)
+2026-03-31 11:25:13 INFO com.financegov.FinanceGovApplication - No active profile set, falling back to 1 default profile: "default"
+2026-03-31 11:25:16 INFO com.financegov.FinanceGovApplication - Started FinanceGovApplication in 3.187 seconds (process running for 503.813)
+2026-03-31 11:25:16 INFO com.financegov.config.AdminInitializer - Admin already exists. Skipping creation.
+2026-03-31 11:25:21 INFO com.financegov.controller.AuthController - New user registration attempt: ritesh
+2026-03-31 11:25:21 INFO com.financegov.service.AuthServiceImpl - Registering new citizen: kulkarniritesh57@gmail.com
+2026-03-31 11:25:21 WARN com.financegov.exceptions.GlobalExceptionHandler - Business error: Critical Error: Default role not found.
+2026-03-31 11:26:40 WARN com.financegov.exceptions.GlobalExceptionHandler - Authentication failed: Full authentication is required to access this resource
+2026-03-31 11:26:41 WARN com.financegov.exceptions.GlobalExceptionHandler - Authentication failed: Full authentication is required to access this resource
+2026-03-31 11:26:42 WARN com.financegov.exceptions.GlobalExceptionHandler - Authentication failed: Full authentication is required to access this resource
+2026-03-31 11:26:42 WARN com.financegov.exceptions.GlobalExceptionHandler - Authentication failed: Full authentication is required to access this resource
+2026-03-31 11:26:42 WARN com.financegov.exceptions.GlobalExceptionHandler - Authentication failed: Full authentication is required to access this resource
+2026-03-31 11:26:42 WARN com.financegov.exceptions.GlobalExceptionHandler - Authentication failed: Full authentication is required to access this resource
+2026-03-31 11:26:42 WARN com.financegov.exceptions.GlobalExceptionHandler - Authentication failed: Full authentication is required to access this resource
+2026-03-31 11:26:42 WARN com.financegov.exceptions.GlobalExceptionHandler - Authentication failed: Full authentication is required to access this resource
+2026-03-31 11:26:42 WARN com.financegov.exceptions.GlobalExceptionHandler - Authentication failed: Full authentication is required to access this resource
+2026-03-31 11:26:42 WARN com.financegov.exceptions.GlobalExceptionHandler - Authentication failed: Full authentication is required to access this resource
+2026-03-31 11:26:42 WARN com.financegov.exceptions.GlobalExceptionHandler - Authentication failed: Full authentication is required to access this resource
+2026-03-31 11:26:43 WARN com.financegov.exceptions.GlobalExceptionHandler - Authentication failed: Full authentication is required to access this resource
+2026-03-31 11:26:43 WARN com.financegov.exceptions.GlobalExceptionHandler - Authentication failed: Full authentication is required to access this resource
+2026-03-31 11:26:43 WARN com.financegov.exceptions.GlobalExceptionHandler - Authentication failed: Full authentication is required to access this resource
+2026-03-31 11:26:43 WARN com.financegov.exceptions.GlobalExceptionHandler - Authentication failed: Full authentication is required to access this resource
+2026-03-31 11:26:43 WARN com.financegov.exceptions.GlobalExceptionHandler - Authentication failed: Full authentication is required to access this resource
+2026-03-31 11:29:22 INFO com.financegov.controller.AuthController - New user registration attempt: ritesh
+2026-03-31 11:29:22 INFO com.financegov.service.AuthServiceImpl - Registering new citizen: kulkarniritesh57@gmail.com
+2026-03-31 14:47:36 INFO com.financegov.FinanceGovApplication - Starting FinanceGovApplication using Java 21.0.8 with PID 16364 (C:\Users\2481532\Downloads\FinanceGovApplication 4\FinanceGovApplication\target\classes started by 2481532 in C:\Users\2481532\Downloads\FinanceGovApplication 4\FinanceGovApplication)
+2026-03-31 14:47:36 INFO com.financegov.FinanceGovApplication - No active profile set, falling back to 1 default profile: "default"
+2026-03-31 14:51:33 INFO com.financegov.FinanceGovApplication - Starting FinanceGovApplication using Java 21.0.8 with PID 37544 (C:\Users\2481532\Downloads\FinanceGovApplication 4\FinanceGovApplication\target\classes started by 2481532 in C:\Users\2481532\Downloads\FinanceGovApplication 4\FinanceGovApplication)
+2026-03-31 14:51:33 INFO com.financegov.FinanceGovApplication - No active profile set, falling back to 1 default profile: "default"
+2026-03-31 14:51:55 INFO com.financegov.FinanceGovApplication - Started FinanceGovApplication in 22.852 seconds (process running for 24.592)
+2026-03-31 14:59:43 INFO com.financegov.FinanceGovApplication - Starting FinanceGovApplication using Java 21.0.8 with PID 30540 (C:\Users\2481532\Downloads\FinanceGovApplication 4\FinanceGovApplication\target\classes started by 2481532 in C:\Users\2481532\Downloads\FinanceGovApplication 4\FinanceGovApplication)
+2026-03-31 14:59:43 INFO com.financegov.FinanceGovApplication - No active profile set, falling back to 1 default profile: "default"
+2026-03-31 15:00:46 INFO com.financegov.FinanceGovApplication - Starting FinanceGovApplication using Java 21.0.8 with PID 38032 (C:\Users\2481532\Downloads\FinanceGovApplication 4\FinanceGovApplication\target\classes started by 2481532 in C:\Users\2481532\Downloads\FinanceGovApplication 4\FinanceGovApplication)
+2026-03-31 15:00:46 INFO com.financegov.FinanceGovApplication - No active profile set, falling back to 1 default profile: "default"
+2026-03-31 15:01:52 INFO com.financegov.FinanceGovApplication - Starting FinanceGovApplication using Java 21.0.8 with PID 21220 (C:\Users\2481532\Downloads\FinanceGovApplication 4\FinanceGovApplication\target\classes started by 2481532 in C:\Users\2481532\Downloads\FinanceGovApplication 4\FinanceGovApplication)
+2026-03-31 15:01:52 INFO com.financegov.FinanceGovApplication - No active profile set, falling back to 1 default profile: "default"
+2026-03-31 15:02:13 INFO com.financegov.FinanceGovApplication - Started FinanceGovApplication in 22.336 seconds (process running for 24.105)
+2026-03-31 15:03:43 INFO com.financegov.FinanceGovApplication - Starting FinanceGovApplication using Java 21.0.8 with PID 36800 (C:\Users\2481532\Downloads\FinanceGovApplication 4\FinanceGovApplication\target\classes started by 2481532 in C:\Users\2481532\Downloads\FinanceGovApplication 4\FinanceGovApplication)
+2026-03-31 15:03:43 INFO com.financegov.FinanceGovApplication - No active profile set, falling back to 1 default profile: "default"
+2026-03-31 15:03:58 INFO com.financegov.FinanceGovApplication - Started FinanceGovApplication in 16.086 seconds (process running for 18.181)
+2026-03-31 15:08:26 INFO com.financegov.FinanceGovApplication - Starting FinanceGovApplication using Java 21.0.8 with PID 36872 (C:\Users\2481532\Downloads\FinanceGovApplication 4\FinanceGovApplication\target\classes started by 2481532 in C:\Users\2481532\Downloads\FinanceGovApplication 4\FinanceGovApplication)
+2026-03-31 15:08:26 INFO com.financegov.FinanceGovApplication - No active profile set, falling back to 1 default profile: "default"
+2026-03-31 15:08:39 INFO com.financegov.FinanceGovApplication - Started FinanceGovApplication in 13.78 seconds (process running for 14.537)
+2026-03-31 15:12:18 INFO com.financegov.FinanceGovApplication - Starting FinanceGovApplication using Java 21.0.8 with PID 33000 (C:\Users\2481532\Downloads\FinanceGovApplication 4\FinanceGovApplication\target\classes started by 2481532 in C:\Users\2481532\Downloads\FinanceGovApplication 4\FinanceGovApplication)
+2026-03-31 15:12:18 INFO com.financegov.FinanceGovApplication - No active profile set, falling back to 1 default profile: "default"
+2026-03-31 15:12:26 INFO com.financegov.FinanceGovApplication - Started FinanceGovApplication in 7.948 seconds (process running for 8.773)
+2026-03-31 15:12:26 INFO com.financegov.config.AdminInitializer - ✅ Created role: ROLE_ADMIN
+2026-03-31 15:12:26 INFO com.financegov.config.AdminInitializer - ✅ Created role: ROLE_FINANCIAL_OFFICER
+2026-03-31 15:12:26 INFO com.financegov.config.AdminInitializer - ✅ Created role: ROLE_PROGRAM_MANAGER
+2026-03-31 15:12:26 INFO com.financegov.config.AdminInitializer - ✅ Created role: ROLE_CITIZEN
+2026-03-31 15:12:26 INFO com.financegov.config.AdminInitializer - ✅ Created role: ROLE_GOVERNMENT_AUDITOR
+2026-03-31 15:12:26 INFO com.financegov.config.AdminInitializer - ✅ Created role: ROLE_COMPLIANCE_OFFICER
+2026-03-31 15:12:26 INFO com.financegov.config.AdminInitializer - 🔥 ADMIN CREATED SUCCESSFULLY!
+2026-03-31 15:12:26 INFO com.financegov.config.AdminInitializer - Email: admin@financegov.com
+2026-03-31 15:12:26 INFO com.financegov.config.AdminInitializer - Password: Admin@1234
+2026-03-31 15:12:40 INFO com.financegov.FinanceGovApplication - Starting FinanceGovApplication using Java 21.0.8 with PID 33000 (C:\Users\2481532\Downloads\FinanceGovApplication 4\FinanceGovApplication\target\classes started by 2481532 in C:\Users\2481532\Downloads\FinanceGovApplication 4\FinanceGovApplication)
+2026-03-31 15:12:40 INFO com.financegov.FinanceGovApplication - No active profile set, falling back to 1 default profile: "default"
+2026-03-31 15:12:43 INFO com.financegov.FinanceGovApplication - Started FinanceGovApplication in 2.775 seconds (process running for 25.773)
+2026-03-31 15:12:43 INFO com.financegov.config.AdminInitializer - ✅ Created role: ROLE_ADMIN
+2026-03-31 15:12:43 INFO com.financegov.config.AdminInitializer - 🔥 ADMIN CREATED SUCCESSFULLY!
+2026-03-31 15:12:43 INFO com.financegov.config.AdminInitializer - Email: admin@financegov.com
+2026-03-31 15:12:43 INFO com.financegov.config.AdminInitializer - Password: Admin@1234
+2026-03-31 15:15:46 INFO com.financegov.FinanceGovApplication - Starting FinanceGovApplication using Java 21.0.8 with PID 35428 (C:\Users\2481532\Downloads\FinanceGovApplication 4\FinanceGovApplication\target\classes started by 2481532 in C:\Users\2481532\Downloads\FinanceGovApplication 4\FinanceGovApplication)
+2026-03-31 15:15:46 INFO com.financegov.FinanceGovApplication - No active profile set, falling back to 1 default profile: "default"
+2026-03-31 15:16:00 INFO com.financegov.FinanceGovApplication - Started FinanceGovApplication in 14.543 seconds (process running for 15.358)
+2026-03-31 15:16:01 INFO com.financegov.config.AdminInitializer - ✅ Created role: ROLE_ADMIN
+2026-03-31 15:16:01 INFO com.financegov.config.AdminInitializer - 🔥 ADMIN CREATED SUCCESSFULLY!
+2026-03-31 15:16:01 INFO com.financegov.config.AdminInitializer - Email: admin@financegov.com
+2026-03-31 15:16:01 INFO com.financegov.config.AdminInitializer - Password: Admin@1234
+2026-03-31 15:17:40 INFO com.financegov.FinanceGovApplication - Starting FinanceGovApplication using Java 21.0.8 with PID 35428 (C:\Users\2481532\Downloads\FinanceGovApplication 4\FinanceGovApplication\target\classes started by 2481532 in C:\Users\2481532\Downloads\FinanceGovApplication 4\FinanceGovApplication)
+2026-03-31 15:17:40 INFO com.financegov.FinanceGovApplication - No active profile set, falling back to 1 default profile: "default"
+2026-03-31 15:17:42 INFO com.financegov.FinanceGovApplication - Started FinanceGovApplication in 2.89 seconds (process running for 117.349)
+2026-03-31 15:18:13 INFO com.financegov.FinanceGovApplication - Starting FinanceGovApplication using Java 21.0.8 with PID 35428 (C:\Users\2481532\Downloads\FinanceGovApplication 4\FinanceGovApplication\target\classes started by 2481532 in C:\Users\2481532\Downloads\FinanceGovApplication 4\FinanceGovApplication)
+2026-03-31 15:18:13 INFO com.financegov.FinanceGovApplication - No active profile set, falling back to 1 default profile: "default"
+2026-03-31 15:18:16 INFO com.financegov.FinanceGovApplication - Started FinanceGovApplication in 3.022 seconds (process running for 150.378)
+2026-03-31 15:18:16 INFO com.financegov.config.AdminInitializer - ✅ Created role: ROLE_ADMIN
+2026-03-31 15:18:16 INFO com.financegov.config.AdminInitializer - 🔥 ADMIN CREATED SUCCESSFULLY!
+2026-03-31 15:18:16 INFO com.financegov.config.AdminInitializer - Email: admin@financegov.com
+2026-03-31 15:18:16 INFO com.financegov.config.AdminInitializer - Password: Admin@1234
+2026-03-31 15:18:35 INFO com.financegov.FinanceGovApplication - Starting FinanceGovApplication using Java 21.0.8 with PID 15148 (C:\Users\2481532\Downloads\FinanceGovApplication 4\FinanceGovApplication\target\classes started by 2481532 in C:\Users\2481532\Downloads\FinanceGovApplication 4\FinanceGovApplication)
+2026-03-31 15:18:35 INFO com.financegov.FinanceGovApplication - No active profile set, falling back to 1 default profile: "default"
+2026-03-31 15:18:42 INFO com.financegov.FinanceGovApplication - Started FinanceGovApplication in 7.419 seconds (process running for 8.186)
+2026-03-31 15:18:42 INFO com.financegov.config.AdminInitializer - ✅ Created role: ROLE_ADMIN
+2026-03-31 15:18:43 INFO com.financegov.config.AdminInitializer - 🔥 ADMIN CREATED SUCCESSFULLY!
+2026-03-31 15:18:43 INFO com.financegov.config.AdminInitializer - Email: admin@financegov.com
+2026-03-31 15:18:43 INFO com.financegov.config.AdminInitializer - Password: Admin@1234
+2026-03-31 15:23:12 INFO com.financegov.controller.AuthController - New user registration attempt: Himanshu
+2026-03-31 15:23:12 INFO com.financegov.service.AuthServiceImpl - Registering new citizen: mandar@gmail.com
+2026-03-31 15:23:12 WARN com.financegov.exceptions.GlobalExceptionHandler - Business error: Critical Error: Default role not found.
+2026-03-31 15:26:10 INFO com.financegov.FinanceGovApplication - Starting FinanceGovApplication using Java 21.0.8 with PID 7204 (C:\Users\2481532\Downloads\FinanceGovApplication 4\FinanceGovApplication\target\classes started by 2481532 in C:\Users\2481532\Downloads\FinanceGovApplication 4\FinanceGovApplication)
+2026-03-31 15:26:10 INFO com.financegov.FinanceGovApplication - No active profile set, falling back to 1 default profile: "default"
+2026-03-31 15:26:18 INFO com.financegov.FinanceGovApplication - Started FinanceGovApplication in 8.49 seconds (process running for 9.421)
+2026-03-31 15:26:18 INFO com.financegov.config.AdminInitializer - ✅ Created role: ROLE_ADMIN
+2026-03-31 15:26:18 INFO com.financegov.config.AdminInitializer - ✅ Created role: ROLE_FINANCIAL_OFFICER
+2026-03-31 15:26:18 INFO com.financegov.config.AdminInitializer - ✅ Created role: ROLE_PROGRAM_MANAGER
+2026-03-31 15:26:18 INFO com.financegov.config.AdminInitializer - ✅ Created role: ROLE_COMPLIANCE_OFFICER
+2026-03-31 15:26:18 INFO com.financegov.config.AdminInitializer - ✅ Created role: ROLE_GOVERNMENT_AUDITOR
+2026-03-31 15:26:18 INFO com.financegov.config.AdminInitializer - ✅ Created role: ROLE_CITIZEN
+2026-03-31 15:26:18 INFO com.financegov.config.AdminInitializer - 🔥 ADMIN CREATED SUCCESSFULLY!
+2026-03-31 15:26:18 INFO com.financegov.config.AdminInitializer - Email: admin@financegov.com
+2026-03-31 15:26:18 INFO com.financegov.config.AdminInitializer - Password: Admin@1234
+2026-03-31 15:26:24 INFO com.financegov.controller.AuthController - New user registration attempt: Himanshu
+2026-03-31 15:26:24 INFO com.financegov.service.AuthServiceImpl - Registering new citizen: mandar@gmail.com
+2026-03-31 15:26:46 INFO com.financegov.FinanceGovApplication - Starting FinanceGovApplication using Java 21.0.8 with PID 7204 (C:\Users\2481532\Downloads\FinanceGovApplication 4\FinanceGovApplication\target\classes started by 2481532 in C:\Users\2481532\Downloads\FinanceGovApplication 4\FinanceGovApplication)
+2026-03-31 15:26:46 INFO com.financegov.FinanceGovApplication - No active profile set, falling back to 1 default profile: "default"
+2026-03-31 15:26:50 INFO com.financegov.FinanceGovApplication - Started FinanceGovApplication in 3.244 seconds (process running for 40.81)
+2026-03-31 15:26:50 INFO com.financegov.config.AdminInitializer - ✅ Created role: ROLE_ADMIN
+2026-03-31 15:26:50 INFO com.financegov.config.AdminInitializer - ✅ Created role: ROLE_FINANCIAL_OFFICER
+2026-03-31 15:26:50 INFO com.financegov.config.AdminInitializer - ✅ Created role: ROLE_PROGRAM_MANAGER
+2026-03-31 15:26:50 INFO com.financegov.config.AdminInitializer - ✅ Created role: ROLE_COMPLIANCE_OFFICER
+2026-03-31 15:26:50 INFO com.financegov.config.AdminInitializer - ✅ Created role: ROLE_GOVERNMENT_AUDITOR
+2026-03-31 15:26:50 INFO com.financegov.config.AdminInitializer - ✅ Created role: ROLE_CITIZEN
+2026-03-31 15:26:50 INFO com.financegov.config.AdminInitializer - 🔥 ADMIN CREATED SUCCESSFULLY!
+2026-03-31 15:26:50 INFO com.financegov.config.AdminInitializer - Email: admin@financegov.com
+2026-03-31 15:26:50 INFO com.financegov.config.AdminInitializer - Password: Admin@1234
+2026-03-31 15:27:05 INFO com.financegov.FinanceGovApplication - Starting FinanceGovApplication using Java 21.0.8 with PID 7204 (C:\Users\2481532\Downloads\FinanceGovApplication 4\FinanceGovApplication\target\classes started by 2481532 in C:\Users\2481532\Downloads\FinanceGovApplication 4\FinanceGovApplication)
+2026-03-31 15:27:05 INFO com.financegov.FinanceGovApplication - No active profile set, falling back to 1 default profile: "default"
+2026-03-31 15:27:06 INFO com.financegov.FinanceGovApplication - Started FinanceGovApplication in 1.261 seconds (process running for 57.502)
+2026-03-31 15:27:06 INFO com.financegov.config.AdminInitializer - Admin already exists. Skipping creation.
+2026-03-31 15:28:31 INFO com.financegov.FinanceGovApplication - Starting FinanceGovApplication using Java 21.0.8 with PID 24212 (C:\Users\2481532\Downloads\FinanceGovApplication 4\FinanceGovApplication\target\classes started by 2481532 in C:\Users\2481532\Downloads\FinanceGovApplication 4\FinanceGovApplication)
+2026-03-31 15:28:31 INFO com.financegov.FinanceGovApplication - No active profile set, falling back to 1 default profile: "default"
+2026-03-31 15:28:36 INFO com.financegov.FinanceGovApplication - Started FinanceGovApplication in 5.591 seconds (process running for 6.414)
+2026-03-31 15:28:37 INFO com.financegov.config.AdminInitializer - Admin already exists. Skipping creation.
+2026-03-31 15:28:44 INFO com.financegov.controller.AuthController - New user registration attempt: Himanshu
+2026-03-31 15:28:44 INFO com.financegov.service.AuthServiceImpl - Registering new citizen: mandar@gmail.com
+2026-03-31 15:28:47 INFO com.financegov.controller.AuthController - New user registration attempt: Himanshu
+2026-03-31 15:28:47 INFO com.financegov.service.AuthServiceImpl - Registering new citizen: mandar@gmail.com
+2026-03-31 15:28:47 WARN com.financegov.exceptions.GlobalExceptionHandler - Business error: This email is already associated with an account.
+2026-03-31 15:30:24 INFO com.financegov.controller.AuthController - Login request received for: mandar@gmail.com
+2026-03-31 15:30:24 INFO com.financegov.service.AuthServiceImpl - Login attempt for: mandar@gmail.com
+2026-03-31 15:30:24 INFO com.financegov.util.RoleRedirectUtil - Redirecting user with role: ROLE_CITIZEN
+2026-03-31 15:30:24 INFO com.financegov.service.AuthServiceImpl - User mandar@gmail.com logged in successfully. Redirecting to /api/citizen/home
+2026-03-31 15:30:24 INFO com.financegov.service.AuditLogService - Audit Log Saved: mandar@gmail.com performed USER_LOGIN on mandar@gmail.com
+2026-03-31 15:32:31 WARN com.financegov.exceptions.GlobalExceptionHandler - Authentication failed: Full authentication is required to access this resource
+2026-03-31 15:32:31 WARN com.financegov.exceptions.GlobalExceptionHandler - Authentication failed: Full authentication is required to access this resource
+2026-03-31 15:33:38 WARN com.financegov.exceptions.GlobalExceptionHandler - Authentication failed: Full authentication is required to access this resource
+2026-03-31 15:33:38 WARN com.financegov.exceptions.GlobalExceptionHandler - Authentication failed: Full authentication is required to access this resource
+2026-03-31 15:36:27 WARN com.financegov.exceptions.GlobalExceptionHandler - Authentication failed: Full authentication is required to access this resource
+2026-03-31 15:36:27 WARN com.financegov.exceptions.GlobalExceptionHandler - Authentication failed: Full authentication is required to access this resource
+2026-03-31 15:38:52 INFO com.financegov.FinanceGovApplication - Starting FinanceGovApplication using Java 21.0.8 with PID 24212 (C:\Users\2481532\Downloads\FinanceGovApplication 4\FinanceGovApplication\target\classes started by 2481532 in C:\Users\2481532\Downloads\FinanceGovApplication 4\FinanceGovApplication)
+2026-03-31 15:38:52 INFO com.financegov.FinanceGovApplication - No active profile set, falling back to 1 default profile: "default"
+2026-03-31 15:39:01 INFO com.financegov.FinanceGovApplication - Starting FinanceGovApplication using Java 21.0.8 with PID 24212 (C:\Users\2481532\Downloads\FinanceGovApplication 4\FinanceGovApplication\target\classes started by 2481532 in C:\Users\2481532\Downloads\FinanceGovApplication 4\FinanceGovApplication)
+2026-03-31 15:39:01 INFO com.financegov.FinanceGovApplication - No active profile set, falling back to 1 default profile: "default"
+2026-03-31 15:39:03 INFO com.financegov.FinanceGovApplication - Started FinanceGovApplication in 1.484 seconds (process running for 632.73)
+2026-03-31 15:39:03 INFO com.financegov.config.AdminInitializer - Admin already exists. Skipping creation.
+2026-03-31 15:39:13 WARN com.financegov.exceptions.GlobalExceptionHandler - Authentication failed: Full authentication is required to access this resource
+2026-03-31 15:39:13 WARN com.financegov.exceptions.GlobalExceptionHandler - Authentication failed: Full authentication is required to access this resource
+2026-03-31 15:39:15 WARN com.financegov.exceptions.GlobalExceptionHandler - Authentication failed: Full authentication is required to access this resource
+2026-03-31 15:39:15 WARN com.financegov.exceptions.GlobalExceptionHandler - Authentication failed: Full authentication is required to access this resource
+2026-03-31 15:39:16 WARN com.financegov.exceptions.GlobalExceptionHandler - Authentication failed: Full authentication is required to access this resource
+2026-03-31 15:39:16 WARN com.financegov.exceptions.GlobalExceptionHandler - Authentication failed: Full authentication is required to access this resource
+2026-03-31 15:39:18 WARN com.financegov.exceptions.GlobalExceptionHandler - Authentication failed: Full authentication is required to access this resource
+2026-03-31 15:39:18 WARN com.financegov.exceptions.GlobalExceptionHandler - Authentication failed: Full authentication is required to access this resource
+2026-03-31 15:41:45 INFO com.financegov.FinanceGovApplication - Starting FinanceGovApplication using Java 21.0.8 with PID 24212 (C:\Users\2481532\Downloads\FinanceGovApplication 4\FinanceGovApplication\target\classes started by 2481532 in C:\Users\2481532\Downloads\FinanceGovApplication 4\FinanceGovApplication)
+2026-03-31 15:41:45 INFO com.financegov.FinanceGovApplication - No active profile set, falling back to 1 default profile: "default"
+2026-03-31 15:41:46 INFO com.financegov.FinanceGovApplication - Started FinanceGovApplication in 1.221 seconds (process running for 796.14)
+2026-03-31 15:41:46 INFO com.financegov.config.AdminInitializer - Admin already exists. Skipping creation.
+2026-03-31 15:45:09 INFO com.financegov.FinanceGovApplication - Starting FinanceGovApplication using Java 21.0.8 with PID 24212 (C:\Users\2481532\Downloads\FinanceGovApplication 4\FinanceGovApplication\target\classes started by 2481532 in C:\Users\2481532\Downloads\FinanceGovApplication 4\FinanceGovApplication)
+2026-03-31 15:45:09 INFO com.financegov.FinanceGovApplication - No active profile set, falling back to 1 default profile: "default"
+2026-03-31 15:45:17 INFO com.financegov.FinanceGovApplication - Started FinanceGovApplication in 8.622 seconds (process running for 1007.407)
+2026-03-31 15:45:17 INFO com.financegov.config.AdminInitializer - Admin already exists. Skipping creation.
+2026-03-31 15:47:11 INFO com.financegov.FinanceGovApplication - Starting FinanceGovApplication using Java 21.0.8 with PID 24212 (C:\Users\2481532\Downloads\FinanceGovApplication 4\FinanceGovApplication\target\classes started by 2481532 in C:\Users\2481532\Downloads\FinanceGovApplication 4\FinanceGovApplication)
+2026-03-31 15:47:11 INFO com.financegov.FinanceGovApplication - No active profile set, falling back to 1 default profile: "default"
+2026-03-31 15:47:12 INFO com.financegov.FinanceGovApplication - Started FinanceGovApplication in 1.265 seconds (process running for 1122.38)
+2026-03-31 15:47:12 INFO com.financegov.config.AdminInitializer - Admin already exists. Skipping creation.
+2026-03-31 15:49:37 INFO com.financegov.FinanceGovApplication - Starting FinanceGovApplication using Java 21.0.8 with PID 24212 (C:\Users\2481532\Downloads\FinanceGovApplication 4\FinanceGovApplication\target\classes started by 2481532 in C:\Users\2481532\Downloads\FinanceGovApplication 4\FinanceGovApplication)
+2026-03-31 15:49:37 INFO com.financegov.FinanceGovApplication - No active profile set, falling back to 1 default profile: "default"
+2026-03-31 15:49:38 INFO com.financegov.FinanceGovApplication - Started FinanceGovApplication in 1.224 seconds (process running for 1268.206)
+2026-03-31 15:49:38 INFO com.financegov.config.AdminInitializer - Admin already exists. Skipping creation.
+2026-03-31 16:03:51 INFO com.financegov.FinanceGovApplication - Starting FinanceGovApplication using Java 21.0.8 with PID 24212 (C:\Users\2481532\Downloads\FinanceGovApplication 4\FinanceGovApplication\target\classes started by 2481532 in C:\Users\2481532\Downloads\FinanceGovApplication 4\FinanceGovApplication)
+2026-03-31 16:03:51 INFO com.financegov.FinanceGovApplication - No active profile set, falling back to 1 default profile: "default"
+2026-03-31 16:03:53 INFO com.financegov.FinanceGovApplication - Started FinanceGovApplication in 1.901 seconds (process running for 2123.3)
+2026-03-31 16:03:53 INFO com.financegov.config.AdminInitializer - Admin already exists. Skipping creation.
+2026-03-31 16:16:30 INFO com.financegov.FinanceGovApplication - Starting FinanceGovApplication using Java 21.0.8 with PID 24212 (C:\Users\2481532\Downloads\FinanceGovApplication 4\FinanceGovApplication\target\classes started by 2481532 in C:\Users\2481532\Downloads\FinanceGovApplication 4\FinanceGovApplication)
+2026-03-31 16:16:30 INFO com.financegov.FinanceGovApplication - No active profile set, falling back to 1 default profile: "default"
+2026-03-31 16:16:38 INFO com.financegov.FinanceGovApplication - Started FinanceGovApplication in 7.978 seconds (process running for 2887.729)
+2026-03-31 16:16:38 INFO com.financegov.config.AdminInitializer - Admin already exists. Skipping creation.
+2026-03-31 16:42:57 INFO com.financegov.FinanceGovApplication - Starting FinanceGovApplication using Java 21.0.8 with PID 24212 (C:\Users\2481532\Downloads\FinanceGovApplication 4\FinanceGovApplication\target\classes started by 2481532 in C:\Users\2481532\Downloads\FinanceGovApplication 4\FinanceGovApplication)
+2026-03-31 16:42:57 INFO com.financegov.FinanceGovApplication - No active profile set, falling back to 1 default profile: "default"
+2026-03-31 16:43:06 INFO com.financegov.FinanceGovApplication - Started FinanceGovApplication in 9.053 seconds (process running for 4475.636)
+2026-03-31 16:43:06 INFO com.financegov.config.AdminInitializer - Admin already exists. Skipping creation.
+2026-03-31 16:43:30 INFO com.financegov.FinanceGovApplication - Starting FinanceGovApplication using Java 21.0.8 with PID 24212 (C:\Users\2481532\Downloads\FinanceGovApplication 4\FinanceGovApplication\target\classes started by 2481532 in C:\Users\2481532\Downloads\FinanceGovApplication 4\FinanceGovApplication)
+2026-03-31 16:43:30 INFO com.financegov.FinanceGovApplication - No active profile set, falling back to 1 default profile: "default"
+2026-03-31 16:43:32 INFO com.financegov.FinanceGovApplication - Started FinanceGovApplication in 1.527 seconds (process running for 4501.91)
+2026-03-31 16:43:32 INFO com.financegov.config.AdminInitializer - Admin already exists. Skipping creation.
+2026-03-31 16:49:48 INFO com.financegov.FinanceGovApplication - Starting FinanceGovApplication using Java 21.0.8 with PID 24212 (C:\Users\2481532\Downloads\FinanceGovApplication 4\FinanceGovApplication\target\classes started by 2481532 in C:\Users\2481532\Downloads\FinanceGovApplication 4\FinanceGovApplication)
+2026-03-31 16:49:48 INFO com.financegov.FinanceGovApplication - No active profile set, falling back to 1 default profile: "default"
+2026-03-31 16:49:56 INFO com.financegov.FinanceGovApplication - Started FinanceGovApplication in 7.535 seconds (process running for 4885.526)
+2026-03-31 16:49:56 INFO com.financegov.config.AdminInitializer - Admin already exists. Skipping creation.
+2026-03-31 16:52:14 INFO com.financegov.FinanceGovApplication - Starting FinanceGovApplication using Java 21.0.8 with PID 34868 (C:\Users\2481532\Downloads\FinanceGovApplication 4\FinanceGovApplication\target\classes started by 2481532 in C:\Users\2481532\Downloads\FinanceGovApplication 4\FinanceGovApplication)
+2026-03-31 16:52:14 INFO com.financegov.FinanceGovApplication - No active profile set, falling back to 1 default profile: "default"
+2026-03-31 16:52:20 INFO com.financegov.FinanceGovApplication - Started FinanceGovApplication in 6.663 seconds (process running for 7.685)
+2026-03-31 16:52:20 INFO com.financegov.config.AdminInitializer - Admin already exists. Skipping creation.
+2026-03-31 16:55:10 INFO com.financegov.controller.AuthController - New user registration attempt: Mohit
+2026-03-31 16:55:11 INFO com.financegov.service.AuthServiceImpl - Registering new citizen: hmcreationhimanshu011@gmail.com
+2026-03-31 16:59:44 WARN com.financegov.exceptions.GlobalExceptionHandler - Authentication failed: Full authentication is required to access this resource
+2026-03-31 17:00:01 WARN com.financegov.exceptions.GlobalExceptionHandler - Authentication failed: Full authentication is required to access this resource
+2026-03-31 17:00:02 WARN com.financegov.exceptions.GlobalExceptionHandler - Authentication failed: Full authentication is required to access this resource
+2026-03-31 17:00:18 WARN com.financegov.exceptions.GlobalExceptionHandler - Authentication failed: Full authentication is required to access this resource
+2026-03-31 17:00:19 WARN com.financegov.exceptions.GlobalExceptionHandler - Authentication failed: Full authentication is required to access this resource
+2026-03-31 17:04:28 INFO com.financegov.FinanceGovApplication - Starting FinanceGovApplication using Java 21.0.8 with PID 34868 (C:\Users\2481532\Downloads\FinanceGovApplication 4\FinanceGovApplication\target\classes started by 2481532 in C:\Users\2481532\Downloads\FinanceGovApplication 4\FinanceGovApplication)
+2026-03-31 17:04:28 INFO com.financegov.FinanceGovApplication - No active profile set, falling back to 1 default profile: "default"
+2026-03-31 17:04:30 INFO com.financegov.FinanceGovApplication - Started FinanceGovApplication in 1.805 seconds (process running for 737.854)
+2026-03-31 17:04:30 INFO com.financegov.config.AdminInitializer - Admin already exists. Skipping creation.
+2026-03-31 17:12:55 INFO com.financegov.FinanceGovApplication - Starting FinanceGovApplication using Java 21.0.8 with PID 34868 (C:\Users\2481532\Downloads\FinanceGovApplication 4\FinanceGovApplication\target\classes started by 2481532 in C:\Users\2481532\Downloads\FinanceGovApplication 4\FinanceGovApplication)
+2026-03-31 17:12:55 INFO com.financegov.FinanceGovApplication - No active profile set, falling back to 1 default profile: "default"
+2026-03-31 17:12:57 INFO com.financegov.FinanceGovApplication - Started FinanceGovApplication in 1.483 seconds (process running for 1244.937)
+2026-03-31 17:12:57 INFO com.financegov.config.AdminInitializer - Admin already exists. Skipping creation.
+2026-03-31 17:13:11 WARN com.financegov.exceptions.GlobalExceptionHandler - Authentication failed: Full authentication is required to access this resource
+2026-03-31 17:13:14 WARN com.financegov.exceptions.GlobalExceptionHandler - Authentication failed: Full authentication is required to access this resource
+2026-03-31 17:15:15 INFO com.financegov.controller.AuthController - Login request received for: hmcreationhimanshu011@mail.com
+2026-03-31 17:15:15 INFO com.financegov.service.AuthServiceImpl - Login attempt for: hmcreationhimanshu011@mail.com
+2026-03-31 17:15:32 INFO com.financegov.controller.AuthController - Login request received for: hmcreationhimanshu011@gmail.com
+2026-03-31 17:15:32 INFO com.financegov.service.AuthServiceImpl - Login attempt for: hmcreationhimanshu011@gmail.com
+2026-03-31 17:15:32 INFO com.financegov.util.RoleRedirectUtil - Redirecting user with role: ROLE_CITIZEN
+2026-03-31 17:15:32 INFO com.financegov.service.AuthServiceImpl - User hmcreationhimanshu011@gmail.com logged in successfully. Redirecting to /api/citizen/home
+2026-03-31 17:15:32 INFO com.financegov.service.AuditLogService - Audit Log Saved: hmcreationhimanshu011@gmail.com performed USER_LOGIN on hmcreationhimanshu011@gmail.com

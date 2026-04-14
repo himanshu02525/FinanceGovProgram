@@ -1,0 +1,441 @@
+2026-04-01 11:40:02 INFO com.financegov.FinanceGovApplication - Starting FinanceGovApplication using Java 21.0.8 with PID 23564 (C:\Users\2481532\Downloads\FinanceGovApplication 4\FinanceGovApplication\target\classes started by 2481532 in C:\Users\2481532\Downloads\FinanceGovApplication 4\FinanceGovApplication)
+2026-04-01 11:40:02 INFO com.financegov.FinanceGovApplication - No active profile set, falling back to 1 default profile: "default"
+2026-04-01 11:40:16 INFO com.financegov.FinanceGovApplication - Started FinanceGovApplication in 14.105 seconds (process running for 15.32)
+2026-04-01 11:40:16 INFO com.financegov.config.AdminInitializer - ✅ Created role: ROLE_ADMIN
+2026-04-01 11:40:16 INFO com.financegov.config.AdminInitializer - ✅ Created role: ROLE_COMPLIANCE_OFFICER
+2026-04-01 11:40:16 INFO com.financegov.config.AdminInitializer - ✅ Created role: ROLE_FINANCIAL_OFFICER
+2026-04-01 11:40:16 INFO com.financegov.config.AdminInitializer - ✅ Created role: ROLE_GOVERNMENT_AUDITOR
+2026-04-01 11:40:16 INFO com.financegov.config.AdminInitializer - ✅ Created role: ROLE_PROGRAM_MANAGER
+2026-04-01 11:40:16 INFO com.financegov.config.AdminInitializer - 🔥 ADMIN CREATED SUCCESSFULLY!
+2026-04-01 11:40:16 INFO com.financegov.config.AdminInitializer - Email: admin@financegov.com
+2026-04-01 11:40:16 INFO com.financegov.config.AdminInitializer - Password: Admin@1234
+2026-04-01 11:42:41 INFO com.financegov.controller.AuthController - New user registration attempt: Himanshu
+2026-04-01 11:42:41 INFO com.financegov.service.AuthServiceImpl - Registering new citizen: hmcreationhimanshu011@gmail.com
+2026-04-01 11:42:41 WARN com.financegov.exceptions.GlobalExceptionHandler - Business error: Critical Error: Default role not found.
+2026-04-01 11:43:00 INFO com.financegov.FinanceGovApplication - Starting FinanceGovApplication using Java 21.0.8 with PID 23564 (C:\Users\2481532\Downloads\FinanceGovApplication 4\FinanceGovApplication\target\classes started by 2481532 in C:\Users\2481532\Downloads\FinanceGovApplication 4\FinanceGovApplication)
+2026-04-01 11:43:00 INFO com.financegov.FinanceGovApplication - No active profile set, falling back to 1 default profile: "default"
+2026-04-01 11:43:02 INFO com.financegov.FinanceGovApplication - Started FinanceGovApplication in 1.43 seconds (process running for 181.322)
+2026-04-01 11:43:02 INFO com.financegov.config.AdminInitializer - ✅ Created role: ROLE_CITIZEN
+2026-04-01 11:43:02 INFO com.financegov.config.AdminInitializer - Admin already exists. Skipping creation.
+2026-04-01 11:43:29 INFO com.financegov.controller.AuthController - New user registration attempt: Himanshu
+2026-04-01 11:43:29 INFO com.financegov.service.AuthServiceImpl - Registering new citizen: hmcreationhimanshu011@gmail.com
+2026-04-01 11:46:02 INFO com.financegov.controller.AuthController - New user registration attempt: SandeepSomavarapu
+2026-04-01 11:46:02 INFO com.financegov.service.AuthServiceImpl - Registering new citizen: cyberhunk011@gmail.com
+2026-04-01 11:46:18 INFO com.financegov.controller.AuthController - Login request received for: hmcreationhimanshu011@gmail.com
+2026-04-01 11:46:18 INFO com.financegov.service.AuthServiceImpl - Login attempt for: hmcreationhimanshu011@gmail.com
+2026-04-01 11:46:18 INFO com.financegov.util.RoleRedirectUtil - Redirecting user with role: ROLE_CITIZEN
+2026-04-01 11:46:18 INFO com.financegov.service.AuthServiceImpl - User hmcreationhimanshu011@gmail.com logged in successfully. Redirecting to /api/citizen/home
+2026-04-01 11:46:18 INFO com.financegov.service.AuditLogService - Audit Log Saved: hmcreationhimanshu011@gmail.com performed USER_LOGIN on hmcreationhimanshu011@gmail.com
+2026-04-01 11:49:38 INFO com.financegov.controller.AuthController - Login request received for: hmcreationhimanshu011@gmail.com
+2026-04-01 11:49:38 INFO com.financegov.service.AuthServiceImpl - Login attempt for: hmcreationhimanshu011@gmail.com
+2026-04-01 11:49:38 INFO com.financegov.util.RoleRedirectUtil - Redirecting user with role: ROLE_CITIZEN
+2026-04-01 11:49:38 INFO com.financegov.service.AuthServiceImpl - User hmcreationhimanshu011@gmail.com logged in successfully. Redirecting to /api/citizen/home
+2026-04-01 11:49:38 INFO com.financegov.service.AuditLogService - Audit Log Saved: hmcreationhimanshu011@gmail.com performed USER_LOGIN on hmcreationhimanshu011@gmail.com
+2026-04-01 11:51:05 ERROR com.financegov.exceptions.GlobalExceptionHandler - Unexpected system error
+org.springframework.web.servlet.resource.NoResourceFoundException: No static resource entities for request '/entities'.
+	at org.springframework.web.servlet.resource.ResourceHttpRequestHandler.handleRequest(ResourceHttpRequestHandler.java:527)
+	at org.springframework.web.servlet.mvc.HttpRequestHandlerAdapter.handle(HttpRequestHandlerAdapter.java:50)
+	at org.springframework.web.servlet.DispatcherServlet.doDispatch(DispatcherServlet.java:963)
+	at org.springframework.web.servlet.DispatcherServlet.doService(DispatcherServlet.java:866)
+	at org.springframework.web.servlet.FrameworkServlet.processRequest(FrameworkServlet.java:1000)
+	at org.springframework.web.servlet.FrameworkServlet.doPost(FrameworkServlet.java:903)
+	at jakarta.servlet.http.HttpServlet.service(HttpServlet.java:649)
+	at org.springframework.web.servlet.FrameworkServlet.service(FrameworkServlet.java:874)
+	at jakarta.servlet.http.HttpServlet.service(HttpServlet.java:710)
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:128)
+	at org.apache.tomcat.websocket.server.WsFilter.doFilter(WsFilter.java:53)
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:107)
+	at org.springframework.web.filter.OncePerRequestFilter.doFilter(OncePerRequestFilter.java:110)
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:107)
+	at org.springframework.web.filter.CompositeFilter$VirtualFilterChain.doFilter(CompositeFilter.java:108)
+	at org.springframework.security.web.FilterChainProxy.lambda$doFilterInternal$3(FilterChainProxy.java:235)
+	at org.springframework.security.web.FilterChainProxy$VirtualFilterChain.doFilter(FilterChainProxy.java:371)
+	at org.springframework.security.web.access.intercept.AuthorizationFilter.doFilter(AuthorizationFilter.java:101)
+	at org.springframework.security.web.FilterChainProxy$VirtualFilterChain.doFilter(FilterChainProxy.java:380)
+	at org.springframework.security.web.access.ExceptionTranslationFilter.doFilter(ExceptionTranslationFilter.java:126)
+	at org.springframework.security.web.access.ExceptionTranslationFilter.doFilter(ExceptionTranslationFilter.java:120)
+	at org.springframework.security.web.FilterChainProxy$VirtualFilterChain.doFilter(FilterChainProxy.java:380)
+	at org.springframework.security.web.session.SessionManagementFilter.doFilter(SessionManagementFilter.java:132)
+	at org.springframework.security.web.session.SessionManagementFilter.doFilter(SessionManagementFilter.java:86)
+	at org.springframework.security.web.FilterChainProxy$VirtualFilterChain.doFilter(FilterChainProxy.java:380)
+	at org.springframework.security.web.authentication.AnonymousAuthenticationFilter.doFilter(AnonymousAuthenticationFilter.java:100)
+	at org.springframework.security.web.FilterChainProxy$VirtualFilterChain.doFilter(FilterChainProxy.java:380)
+	at org.springframework.security.web.servletapi.SecurityContextHolderAwareRequestFilter.doFilter(SecurityContextHolderAwareRequestFilter.java:181)
+	at org.springframework.security.web.FilterChainProxy$VirtualFilterChain.doFilter(FilterChainProxy.java:380)
+	at org.springframework.security.web.savedrequest.RequestCacheAwareFilter.doFilter(RequestCacheAwareFilter.java:63)
+	at org.springframework.security.web.FilterChainProxy$VirtualFilterChain.doFilter(FilterChainProxy.java:380)
+	at com.financegov.config.JwtFilter.doFilterInternal(JwtFilter.java:67)
+	at org.springframework.web.filter.OncePerRequestFilter.doFilter(OncePerRequestFilter.java:116)
+	at org.springframework.security.web.FilterChainProxy$VirtualFilterChain.doFilter(FilterChainProxy.java:380)
+	at org.springframework.security.web.authentication.logout.LogoutFilter.doFilter(LogoutFilter.java:110)
+	at org.springframework.security.web.authentication.logout.LogoutFilter.doFilter(LogoutFilter.java:96)
+	at org.springframework.security.web.FilterChainProxy$VirtualFilterChain.doFilter(FilterChainProxy.java:380)
+	at org.springframework.security.web.header.HeaderWriterFilter.doHeadersAfter(HeaderWriterFilter.java:90)
+	at org.springframework.security.web.header.HeaderWriterFilter.doFilterInternal(HeaderWriterFilter.java:75)
+	at org.springframework.web.filter.OncePerRequestFilter.doFilter(OncePerRequestFilter.java:116)
+	at org.springframework.security.web.FilterChainProxy$VirtualFilterChain.doFilter(FilterChainProxy.java:380)
+	at org.springframework.security.web.context.SecurityContextHolderFilter.doFilter(SecurityContextHolderFilter.java:82)
+	at org.springframework.security.web.context.SecurityContextHolderFilter.doFilter(SecurityContextHolderFilter.java:69)
+	at org.springframework.security.web.FilterChainProxy$VirtualFilterChain.doFilter(FilterChainProxy.java:380)
+	at org.springframework.security.web.context.request.async.WebAsyncManagerIntegrationFilter.doFilterInternal(WebAsyncManagerIntegrationFilter.java:62)
+	at org.springframework.web.filter.OncePerRequestFilter.doFilter(OncePerRequestFilter.java:116)
+	at org.springframework.security.web.FilterChainProxy$VirtualFilterChain.doFilter(FilterChainProxy.java:380)
+	at org.springframework.security.web.session.DisableEncodeUrlFilter.doFilterInternal(DisableEncodeUrlFilter.java:42)
+	at org.springframework.web.filter.OncePerRequestFilter.doFilter(OncePerRequestFilter.java:116)
+	at org.springframework.security.web.FilterChainProxy$VirtualFilterChain.doFilter(FilterChainProxy.java:380)
+	at org.springframework.security.web.FilterChainProxy.doFilterInternal(FilterChainProxy.java:237)
+	at org.springframework.security.web.FilterChainProxy.doFilter(FilterChainProxy.java:195)
+	at org.springframework.web.filter.CompositeFilter$VirtualFilterChain.doFilter(CompositeFilter.java:113)
+	at org.springframework.web.filter.ServletRequestPathFilter.doFilter(ServletRequestPathFilter.java:52)
+	at org.springframework.web.filter.CompositeFilter$VirtualFilterChain.doFilter(CompositeFilter.java:113)
+	at org.springframework.web.filter.CompositeFilter.doFilter(CompositeFilter.java:74)
+	at org.springframework.security.config.annotation.web.configuration.WebSecurityConfiguration$CompositeFilterChainProxy.doFilter(WebSecurityConfiguration.java:317)
+	at org.springframework.web.filter.DelegatingFilterProxy.invokeDelegate(DelegatingFilterProxy.java:355)
+	at org.springframework.web.filter.DelegatingFilterProxy.doFilter(DelegatingFilterProxy.java:272)
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:107)
+	at org.springframework.web.filter.RequestContextFilter.doFilterInternal(RequestContextFilter.java:100)
+	at org.springframework.web.filter.OncePerRequestFilter.doFilter(OncePerRequestFilter.java:116)
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:107)
+	at org.springframework.web.filter.FormContentFilter.doFilterInternal(FormContentFilter.java:93)
+	at org.springframework.web.filter.OncePerRequestFilter.doFilter(OncePerRequestFilter.java:116)
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:107)
+	at org.springframework.web.filter.CharacterEncodingFilter.doFilterInternal(CharacterEncodingFilter.java:199)
+	at org.springframework.web.filter.OncePerRequestFilter.doFilter(OncePerRequestFilter.java:116)
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:107)
+	at org.apache.catalina.core.StandardWrapperValve.invoke(StandardWrapperValve.java:165)
+	at org.apache.catalina.core.StandardContextValve.invoke(StandardContextValve.java:77)
+	at org.apache.catalina.authenticator.AuthenticatorBase.invoke(AuthenticatorBase.java:492)
+	at org.apache.catalina.core.StandardHostValve.invoke(StandardHostValve.java:113)
+	at org.apache.catalina.valves.ErrorReportValve.invoke(ErrorReportValve.java:83)
+	at org.apache.catalina.core.StandardEngineValve.invoke(StandardEngineValve.java:72)
+	at org.apache.catalina.connector.CoyoteAdapter.service(CoyoteAdapter.java:341)
+	at org.apache.coyote.http11.Http11Processor.service(Http11Processor.java:397)
+	at org.apache.coyote.AbstractProcessorLight.process(AbstractProcessorLight.java:63)
+	at org.apache.coyote.AbstractProtocol$ConnectionHandler.process(AbstractProtocol.java:903)
+	at org.apache.tomcat.util.net.NioEndpoint$SocketProcessor.doRun(NioEndpoint.java:1779)
+	at org.apache.tomcat.util.net.SocketProcessorBase.run(SocketProcessorBase.java:52)
+	at org.apache.tomcat.util.threads.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:946)
+	at org.apache.tomcat.util.threads.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:480)
+	at org.apache.tomcat.util.threads.TaskThread$WrappingRunnable.run(TaskThread.java:57)
+	at java.base/java.lang.Thread.run(Thread.java:1583)
+2026-04-01 11:52:48 INFO com.financegov.service.CitizenBusinessServiceImpl - Creating Citizen/Business: Himanshu
+2026-04-01 11:52:48 INFO com.financegov.service.CitizenBusinessServiceImpl - Citizen/Business created with entityId=3
+2026-04-01 12:00:56 INFO com.financegov.controller.AuthController - Login request received for: admin@financegov.com
+2026-04-01 12:00:56 INFO com.financegov.service.AuthServiceImpl - Login attempt for: admin@financegov.com
+2026-04-01 12:00:57 INFO com.financegov.util.RoleRedirectUtil - Redirecting user with role: ROLE_ADMIN
+2026-04-01 12:00:57 INFO com.financegov.service.AuthServiceImpl - User admin@financegov.com logged in successfully. Redirecting to /api/admin/dashboard
+2026-04-01 12:00:57 INFO com.financegov.service.AuditLogService - Audit Log Saved: admin@financegov.com performed USER_LOGIN on admin@financegov.com
+2026-04-01 12:02:27 INFO com.financegov.controller.AdminController - Admin creating internal user: hmcreationhimanshu012@gmail.com
+2026-04-01 12:02:27 INFO com.financegov.service.UserServiceImpl - Admin attempt to create internal officer: hmcreationhimanshu012@gmail.com
+2026-04-01 12:02:27 INFO com.financegov.service.UserServiceImpl - Success: ROLE_FINANCIAL_OFFICER account created for hmcreationhimanshu012@gmail.com
+2026-04-01 12:02:27 INFO com.financegov.service.AuditLogService - Audit Log Saved: admin@financegov.com performed CREATE_INTERNAL_USER on hmcreationhimanshu012@gmail.com
+2026-04-01 12:03:49 INFO com.financegov.controller.AuthController - Login request received for: cyberhunk011@gmail.com
+2026-04-01 12:03:49 INFO com.financegov.service.AuthServiceImpl - Login attempt for: cyberhunk011@gmail.com
+2026-04-01 12:03:49 WARN com.financegov.service.AuthServiceImpl - Invalid password for user: cyberhunk011@gmail.com
+2026-04-01 12:03:49 WARN com.financegov.exceptions.GlobalExceptionHandler - Business error: Invalid email or password.
+2026-04-01 12:03:56 INFO com.financegov.controller.AuthController - Login request received for: cyberhunk011@gmail.com
+2026-04-01 12:03:56 INFO com.financegov.service.AuthServiceImpl - Login attempt for: cyberhunk011@gmail.com
+2026-04-01 12:03:56 WARN com.financegov.service.AuthServiceImpl - Invalid password for user: cyberhunk011@gmail.com
+2026-04-01 12:03:56 WARN com.financegov.exceptions.GlobalExceptionHandler - Business error: Invalid email or password.
+2026-04-01 12:04:12 INFO com.financegov.controller.AuthController - Login request received for: cyberhunk011@gmail.com
+2026-04-01 12:04:12 INFO com.financegov.service.AuthServiceImpl - Login attempt for: cyberhunk011@gmail.com
+2026-04-01 12:04:13 WARN com.financegov.service.AuthServiceImpl - Invalid password for user: cyberhunk011@gmail.com
+2026-04-01 12:04:13 WARN com.financegov.exceptions.GlobalExceptionHandler - Business error: Invalid email or password.
+2026-04-01 12:04:20 INFO com.financegov.controller.AuthController - Login request received for: cyberhunk011@gmail.com
+2026-04-01 12:04:20 INFO com.financegov.service.AuthServiceImpl - Login attempt for: cyberhunk011@gmail.com
+2026-04-01 12:04:20 WARN com.financegov.service.AuthServiceImpl - Invalid password for user: cyberhunk011@gmail.com
+2026-04-01 12:04:20 WARN com.financegov.exceptions.GlobalExceptionHandler - Business error: Invalid email or password.
+2026-04-01 12:04:42 INFO com.financegov.controller.AuthController - New user registration attempt: Ritesh
+2026-04-01 12:04:42 INFO com.financegov.service.AuthServiceImpl - Registering new citizen: kulkarniritesh57@gmail.com
+2026-04-01 12:05:16 INFO com.financegov.controller.AuthController - Login request received for: kulkarniritesh57@gmail.com
+2026-04-01 12:05:16 INFO com.financegov.service.AuthServiceImpl - Login attempt for: kulkarniritesh57@gmail.com
+2026-04-01 12:05:17 INFO com.financegov.util.RoleRedirectUtil - Redirecting user with role: ROLE_CITIZEN
+2026-04-01 12:05:17 INFO com.financegov.service.AuthServiceImpl - User kulkarniritesh57@gmail.com logged in successfully. Redirecting to /api/citizen/home
+2026-04-01 12:05:17 INFO com.financegov.service.AuditLogService - Audit Log Saved: kulkarniritesh57@gmail.com performed USER_LOGIN on kulkarniritesh57@gmail.com
+2026-04-01 12:05:55 INFO com.financegov.service.CitizenBusinessServiceImpl - Creating Citizen/Business: Ritesh
+2026-04-01 12:05:55 INFO com.financegov.service.CitizenBusinessServiceImpl - Citizen/Business created with entityId=4
+2026-04-01 12:05:58 WARN com.financegov.exceptions.GlobalExceptionHandler - Business error: Authentication failed
+2026-04-01 12:06:08 INFO com.financegov.service.CitizenBusinessServiceImpl - Creating Citizen/Business: Ritesh
+2026-04-01 12:06:08 INFO com.financegov.service.CitizenBusinessServiceImpl - Citizen/Business created with entityId=5
+2026-04-01 12:06:11 WARN com.financegov.exceptions.GlobalExceptionHandler - Business error: Authentication failed
+2026-04-01 12:06:24 INFO com.financegov.controller.AuthController - Login request received for: kulkarniritesh57@gmail.com
+2026-04-01 12:06:24 INFO com.financegov.service.AuthServiceImpl - Login attempt for: kulkarniritesh57@gmail.com
+2026-04-01 12:06:25 INFO com.financegov.util.RoleRedirectUtil - Redirecting user with role: ROLE_CITIZEN
+2026-04-01 12:06:25 INFO com.financegov.service.AuthServiceImpl - User kulkarniritesh57@gmail.com logged in successfully. Redirecting to /api/citizen/home
+2026-04-01 12:06:25 INFO com.financegov.service.AuditLogService - Audit Log Saved: kulkarniritesh57@gmail.com performed USER_LOGIN on kulkarniritesh57@gmail.com
+2026-04-01 12:06:46 INFO com.financegov.service.CitizenBusinessServiceImpl - Creating Citizen/Business: Ritesh
+2026-04-01 12:06:46 INFO com.financegov.service.CitizenBusinessServiceImpl - Citizen/Business created with entityId=6
+2026-04-01 12:06:49 WARN com.financegov.exceptions.GlobalExceptionHandler - Business error: Authentication failed
+2026-04-01 12:07:53 INFO com.financegov.service.CitizenBusinessServiceImpl - Creating Citizen/Business: Ritesh
+2026-04-01 12:07:53 INFO com.financegov.service.CitizenBusinessServiceImpl - Citizen/Business created with entityId=7
+2026-04-01 12:07:55 WARN com.financegov.exceptions.GlobalExceptionHandler - Business error: Authentication failed
+2026-04-01 12:08:10 WARN com.financegov.exceptions.GlobalExceptionHandler - Authentication failed: Full authentication is required to access this resource
+2026-04-01 12:09:03 INFO com.financegov.FinanceGovApplication - Starting FinanceGovApplication using Java 21.0.8 with PID 23564 (C:\Users\2481532\Downloads\FinanceGovApplication 4\FinanceGovApplication\target\classes started by 2481532 in C:\Users\2481532\Downloads\FinanceGovApplication 4\FinanceGovApplication)
+2026-04-01 12:09:03 INFO com.financegov.FinanceGovApplication - No active profile set, falling back to 1 default profile: "default"
+2026-04-01 12:09:13 INFO com.financegov.FinanceGovApplication - Started FinanceGovApplication in 10.768 seconds (process running for 1753.045)
+2026-04-01 12:09:14 INFO com.financegov.config.AdminInitializer - Admin already exists. Skipping creation.
+2026-04-01 12:09:36 INFO com.financegov.controller.AuthController - Login request received for: admin@financegov.com
+2026-04-01 12:09:36 INFO com.financegov.service.AuthServiceImpl - Login attempt for: admin@financegov.com
+2026-04-01 12:09:36 WARN com.financegov.service.AuthServiceImpl - Invalid password for user: admin@financegov.com
+2026-04-01 12:09:36 WARN com.financegov.exceptions.GlobalExceptionHandler - Business error: Invalid email or password.
+2026-04-01 12:09:43 INFO com.financegov.controller.AuthController - Login request received for: admin@financegov.com
+2026-04-01 12:09:43 INFO com.financegov.service.AuthServiceImpl - Login attempt for: admin@financegov.com
+2026-04-01 12:09:43 WARN com.financegov.service.AuthServiceImpl - Invalid password for user: admin@financegov.com
+2026-04-01 12:09:43 WARN com.financegov.exceptions.GlobalExceptionHandler - Business error: Invalid email or password.
+2026-04-01 12:10:16 INFO com.financegov.controller.AuthController - Login request received for: admin@financegov.com
+2026-04-01 12:10:16 INFO com.financegov.service.AuthServiceImpl - Login attempt for: admin@financegov.com
+2026-04-01 12:10:17 WARN com.financegov.service.AuthServiceImpl - Invalid password for user: admin@financegov.com
+2026-04-01 12:10:17 WARN com.financegov.exceptions.GlobalExceptionHandler - Business error: Invalid email or password.
+2026-04-01 12:11:04 INFO com.financegov.FinanceGovApplication - Starting FinanceGovApplication using Java 21.0.8 with PID 23564 (C:\Users\2481532\Downloads\FinanceGovApplication 4\FinanceGovApplication\target\classes started by 2481532 in C:\Users\2481532\Downloads\FinanceGovApplication 4\FinanceGovApplication)
+2026-04-01 12:11:04 INFO com.financegov.FinanceGovApplication - No active profile set, falling back to 1 default profile: "default"
+2026-04-01 12:11:06 INFO com.financegov.FinanceGovApplication - Started FinanceGovApplication in 1.975 seconds (process running for 1865.358)
+2026-04-01 12:11:06 INFO com.financegov.config.AdminInitializer - Admin already exists. Skipping creation.
+2026-04-01 12:11:32 INFO com.financegov.controller.AuthController - Login request received for: admin@financegov.com
+2026-04-01 12:11:32 INFO com.financegov.service.AuthServiceImpl - Login attempt for: admin@financegov.com
+2026-04-01 12:11:32 INFO com.financegov.util.RoleRedirectUtil - Redirecting user with role: ROLE_ADMIN
+2026-04-01 12:11:32 INFO com.financegov.service.AuthServiceImpl - User admin@financegov.com logged in successfully. Redirecting to /api/admin/dashboard
+2026-04-01 12:11:32 INFO com.financegov.service.AuditLogService - Audit Log Saved: admin@financegov.com performed USER_LOGIN on admin@financegov.com
+2026-04-01 12:11:59 WARN com.financegov.exceptions.GlobalExceptionHandler - Access denied: Access Denied
+2026-04-01 12:13:12 WARN com.financegov.exceptions.GlobalExceptionHandler - Access denied: Access Denied
+2026-04-01 12:14:24 WARN com.financegov.exceptions.GlobalExceptionHandler - Access denied: Access Denied
+2026-04-01 12:16:28 INFO com.financegov.controller.AuthController - New user registration attempt: Bharat
+2026-04-01 12:16:28 INFO com.financegov.service.AuthServiceImpl - Registering new citizen: kulkarniriteds57@gmail.com
+2026-04-01 12:16:45 INFO com.financegov.controller.AuthController - Login request received for: kulkarniriteds57@gmail.com
+2026-04-01 12:16:45 INFO com.financegov.service.AuthServiceImpl - Login attempt for: kulkarniriteds57@gmail.com
+2026-04-01 12:16:46 INFO com.financegov.util.RoleRedirectUtil - Redirecting user with role: ROLE_CITIZEN
+2026-04-01 12:16:46 INFO com.financegov.service.AuthServiceImpl - User kulkarniriteds57@gmail.com logged in successfully. Redirecting to /api/citizen/home
+2026-04-01 12:16:46 INFO com.financegov.service.AuditLogService - Audit Log Saved: kulkarniriteds57@gmail.com performed USER_LOGIN on kulkarniriteds57@gmail.com
+2026-04-01 12:17:12 INFO com.financegov.service.CitizenBusinessServiceImpl - Creating Citizen/Business: BHARAT
+2026-04-01 12:17:12 INFO com.financegov.service.CitizenBusinessServiceImpl - Citizen/Business created with entityId=8
+2026-04-01 12:17:16 WARN com.financegov.exceptions.GlobalExceptionHandler - Business error: Authentication failed
+2026-04-01 12:20:27 INFO com.financegov.controller.AuthController - Login request received for: kulkarniriteds57@gmail.com
+2026-04-01 12:20:27 INFO com.financegov.service.AuthServiceImpl - Login attempt for: kulkarniriteds57@gmail.com
+2026-04-01 12:20:28 INFO com.financegov.util.RoleRedirectUtil - Redirecting user with role: ROLE_CITIZEN
+2026-04-01 12:20:28 INFO com.financegov.service.AuthServiceImpl - User kulkarniriteds57@gmail.com logged in successfully. Redirecting to /api/citizen/home
+2026-04-01 12:20:28 INFO com.financegov.service.AuditLogService - Audit Log Saved: kulkarniriteds57@gmail.com performed USER_LOGIN on kulkarniriteds57@gmail.com
+2026-04-01 12:21:23 INFO com.financegov.service.CitizenBusinessServiceImpl - Creating Citizen/Business: Bharat
+2026-04-01 12:21:23 INFO com.financegov.service.CitizenBusinessServiceImpl - Citizen/Business created with entityId=9
+2026-04-01 12:21:26 WARN com.financegov.exceptions.GlobalExceptionHandler - Business error: Authentication failed
+2026-04-01 12:22:01 INFO com.financegov.controller.AuthController - Login request received for: kulkarniriteds57@gmail.com
+2026-04-01 12:22:01 INFO com.financegov.service.AuthServiceImpl - Login attempt for: kulkarniriteds57@gmail.com
+2026-04-01 12:22:01 INFO com.financegov.util.RoleRedirectUtil - Redirecting user with role: ROLE_CITIZEN
+2026-04-01 12:22:01 INFO com.financegov.service.AuthServiceImpl - User kulkarniriteds57@gmail.com logged in successfully. Redirecting to /api/citizen/home
+2026-04-01 12:22:01 INFO com.financegov.service.AuditLogService - Audit Log Saved: kulkarniriteds57@gmail.com performed USER_LOGIN on kulkarniriteds57@gmail.com
+2026-04-01 12:22:33 WARN com.financegov.exceptions.GlobalExceptionHandler - Authentication failed: Full authentication is required to access this resource
+2026-04-01 12:22:40 INFO com.financegov.service.CitizenBusinessServiceImpl - Creating Citizen/Business: Bharat
+2026-04-01 12:22:40 WARN com.financegov.exceptions.GlobalExceptionHandler - Business error: Validation failed for classes [com.financegov.model.CitizenBusiness] during persist time for groups [jakarta.validation.groups.Default, ]
+List of constraint violations:[
+	ConstraintViolationImpl{interpolatedMessage='Only digits allowed', propertyPath=contactInfo, rootBeanClass=class com.financegov.model.CitizenBusiness, messageTemplate='Only digits allowed'}
+]
+2026-04-01 12:23:05 INFO com.financegov.service.CitizenBusinessServiceImpl - Creating Citizen/Business: Bharat
+2026-04-01 12:23:05 INFO com.financegov.service.CitizenBusinessServiceImpl - Citizen/Business created with entityId=10
+2026-04-01 12:23:08 WARN com.financegov.exceptions.GlobalExceptionHandler - Business error: Authentication failed
+2026-04-01 13:36:47 INFO com.financegov.FinanceGovApplication - Starting FinanceGovApplication using Java 21.0.8 with PID 20868 (C:\Users\2481532\Downloads\FinanceGovApplication 4\FinanceGovApplication\target\classes started by 2481532 in C:\Users\2481532\Downloads\FinanceGovApplication 4\FinanceGovApplication)
+2026-04-01 13:36:47 INFO com.financegov.FinanceGovApplication - No active profile set, falling back to 1 default profile: "default"
+2026-04-01 13:37:13 INFO com.financegov.FinanceGovApplication - Started FinanceGovApplication in 26.806 seconds (process running for 28.937)
+2026-04-01 13:37:13 INFO com.financegov.config.AdminInitializer - Admin already exists. Skipping creation.
+2026-04-01 13:38:59 INFO com.financegov.controller.AuthController - Login request received for: kulkarniriteds57@gmail.com
+2026-04-01 13:38:59 INFO com.financegov.service.AuthServiceImpl - Login attempt for: kulkarniriteds57@gmail.com
+2026-04-01 13:39:00 INFO com.financegov.util.RoleRedirectUtil - Redirecting user with role: ROLE_CITIZEN
+2026-04-01 13:39:00 INFO com.financegov.service.AuthServiceImpl - User kulkarniriteds57@gmail.com logged in successfully. Redirecting to /api/citizen/home
+2026-04-01 13:39:00 INFO com.financegov.service.AuditLogService - Audit Log Saved: kulkarniriteds57@gmail.com performed USER_LOGIN on kulkarniriteds57@gmail.com
+2026-04-01 13:39:04 INFO com.financegov.controller.AuthController - Login request received for: kulkarniriteds57@gmail.com
+2026-04-01 13:39:04 INFO com.financegov.service.AuthServiceImpl - Login attempt for: kulkarniriteds57@gmail.com
+2026-04-01 13:39:05 INFO com.financegov.util.RoleRedirectUtil - Redirecting user with role: ROLE_CITIZEN
+2026-04-01 13:39:05 INFO com.financegov.service.AuthServiceImpl - User kulkarniriteds57@gmail.com logged in successfully. Redirecting to /api/citizen/home
+2026-04-01 13:39:05 INFO com.financegov.service.AuditLogService - Audit Log Saved: kulkarniriteds57@gmail.com performed USER_LOGIN on kulkarniriteds57@gmail.com
+2026-04-01 13:39:25 WARN com.financegov.exceptions.GlobalExceptionHandler - Authentication failed: Full authentication is required to access this resource
+2026-04-01 13:39:34 INFO com.financegov.service.CitizenBusinessServiceImpl - Creating Citizen/Business: Bharat
+2026-04-01 13:39:34 INFO com.financegov.service.CitizenBusinessServiceImpl - Citizen/Business created with entityId=11
+2026-04-01 13:39:35 WARN com.financegov.exceptions.GlobalExceptionHandler - Business error: Mail server connection failed. Failed messages: jakarta.mail.MessagingException: Could not connect to SMTP host: smtp.gmail.com, port: 465;
+  nested exception is:
+	java.net.SocketException: Connection reset
+2026-04-01 13:40:45 INFO com.financegov.FinanceGovApplication - Starting FinanceGovApplication using Java 21.0.8 with PID 21880 (C:\Users\2481532\Downloads\FinanceGovApplication 4\FinanceGovApplication\target\classes started by 2481532 in C:\Users\2481532\Downloads\FinanceGovApplication 4\FinanceGovApplication)
+2026-04-01 13:40:45 INFO com.financegov.FinanceGovApplication - No active profile set, falling back to 1 default profile: "default"
+2026-04-01 13:41:12 INFO com.financegov.FinanceGovApplication - Started FinanceGovApplication in 27.267 seconds (process running for 28.905)
+2026-04-01 13:41:12 INFO com.financegov.config.AdminInitializer - Admin already exists. Skipping creation.
+2026-04-01 13:41:29 INFO com.financegov.controller.AuthController - Login request received for: kulkarniriteds57@gmail.com
+2026-04-01 13:41:29 INFO com.financegov.service.AuthServiceImpl - Login attempt for: kulkarniriteds57@gmail.com
+2026-04-01 13:41:29 INFO com.financegov.util.RoleRedirectUtil - Redirecting user with role: ROLE_CITIZEN
+2026-04-01 13:41:29 INFO com.financegov.service.AuthServiceImpl - User kulkarniriteds57@gmail.com logged in successfully. Redirecting to /api/citizen/home
+2026-04-01 13:41:29 INFO com.financegov.service.AuditLogService - Audit Log Saved: kulkarniriteds57@gmail.com performed USER_LOGIN on kulkarniriteds57@gmail.com
+2026-04-01 13:41:49 INFO com.financegov.service.CitizenBusinessServiceImpl - Creating Citizen/Business: Bharat
+2026-04-01 13:41:49 INFO com.financegov.service.CitizenBusinessServiceImpl - Citizen/Business created with entityId=12
+2026-04-01 13:41:52 WARN com.financegov.exceptions.GlobalExceptionHandler - Business error: Authentication failed
+2026-04-01 13:42:47 INFO com.financegov.service.CitizenBusinessServiceImpl - Creating Citizen/Business: Bharat
+2026-04-01 13:42:47 INFO com.financegov.service.CitizenBusinessServiceImpl - Citizen/Business created with entityId=13
+2026-04-01 13:42:50 WARN com.financegov.exceptions.GlobalExceptionHandler - Business error: Authentication failed
+2026-04-01 13:44:55 INFO com.financegov.FinanceGovApplication - Starting FinanceGovApplication using Java 21.0.8 with PID 22936 (C:\Users\2481532\Downloads\FinanceGovApplication 4\FinanceGovApplication\target\classes started by 2481532 in C:\Users\2481532\Downloads\FinanceGovApplication 4\FinanceGovApplication)
+2026-04-01 13:44:55 INFO com.financegov.FinanceGovApplication - No active profile set, falling back to 1 default profile: "default"
+2026-04-01 13:45:07 INFO com.financegov.FinanceGovApplication - Started FinanceGovApplication in 13.031 seconds (process running for 14.434)
+2026-04-01 13:45:08 INFO com.financegov.config.AdminInitializer - Admin already exists. Skipping creation.
+2026-04-01 13:45:22 INFO com.financegov.controller.AuthController - Login request received for: kulkarniriteds57@gmail.com
+2026-04-01 13:45:22 INFO com.financegov.service.AuthServiceImpl - Login attempt for: kulkarniriteds57@gmail.com
+2026-04-01 13:45:22 INFO com.financegov.util.RoleRedirectUtil - Redirecting user with role: ROLE_CITIZEN
+2026-04-01 13:45:22 INFO com.financegov.service.AuthServiceImpl - User kulkarniriteds57@gmail.com logged in successfully. Redirecting to /api/citizen/home
+2026-04-01 13:45:22 INFO com.financegov.service.AuditLogService - Audit Log Saved: kulkarniriteds57@gmail.com performed USER_LOGIN on kulkarniriteds57@gmail.com
+2026-04-01 13:45:44 INFO com.financegov.service.CitizenBusinessServiceImpl - Creating Citizen/Business: Bharat
+2026-04-01 13:45:44 INFO com.financegov.service.CitizenBusinessServiceImpl - Citizen/Business created with entityId=14
+2026-04-01 13:45:47 WARN com.financegov.exceptions.GlobalExceptionHandler - Business error: Authentication failed
+2026-04-01 13:51:29 INFO com.financegov.FinanceGovApplication - Starting FinanceGovApplication using Java 21.0.8 with PID 26456 (C:\Users\2481532\Downloads\FinanceGovApplication 4\FinanceGovApplication\target\classes started by 2481532 in C:\Users\2481532\Downloads\FinanceGovApplication 4\FinanceGovApplication)
+2026-04-01 13:51:29 INFO com.financegov.FinanceGovApplication - No active profile set, falling back to 1 default profile: "default"
+2026-04-01 13:51:40 INFO com.financegov.FinanceGovApplication - Started FinanceGovApplication in 11.782 seconds (process running for 12.933)
+2026-04-01 13:51:41 INFO com.financegov.config.AdminInitializer - Admin already exists. Skipping creation.
+2026-04-01 13:51:58 INFO com.financegov.controller.AuthController - Login request received for: kulkarniriteds57@gmail.com
+2026-04-01 13:51:58 INFO com.financegov.service.AuthServiceImpl - Login attempt for: kulkarniriteds57@gmail.com
+2026-04-01 13:51:59 INFO com.financegov.util.RoleRedirectUtil - Redirecting user with role: ROLE_CITIZEN
+2026-04-01 13:51:59 INFO com.financegov.service.AuthServiceImpl - User kulkarniriteds57@gmail.com logged in successfully. Redirecting to /api/citizen/home
+2026-04-01 13:51:59 INFO com.financegov.service.AuditLogService - Audit Log Saved: kulkarniriteds57@gmail.com performed USER_LOGIN on kulkarniriteds57@gmail.com
+2026-04-01 13:52:21 INFO com.financegov.service.CitizenBusinessServiceImpl - Creating Citizen/Business: Bharat
+2026-04-01 13:52:21 INFO com.financegov.service.CitizenBusinessServiceImpl - Citizen/Business created with entityId=15
+2026-04-01 13:52:24 WARN com.financegov.exceptions.GlobalExceptionHandler - Business error: Authentication failed
+2026-04-01 13:52:57 INFO com.financegov.FinanceGovApplication - Starting FinanceGovApplication using Java 21.0.8 with PID 26456 (C:\Users\2481532\Downloads\FinanceGovApplication 4\FinanceGovApplication\target\classes started by 2481532 in C:\Users\2481532\Downloads\FinanceGovApplication 4\FinanceGovApplication)
+2026-04-01 13:52:57 INFO com.financegov.FinanceGovApplication - No active profile set, falling back to 1 default profile: "default"
+2026-04-01 13:53:00 INFO com.financegov.FinanceGovApplication - Started FinanceGovApplication in 2.452 seconds (process running for 92.084)
+2026-04-01 13:53:00 INFO com.financegov.config.AdminInitializer - Admin already exists. Skipping creation.
+2026-04-01 13:53:09 INFO com.financegov.service.CitizenBusinessServiceImpl - Creating Citizen/Business: Bharat
+2026-04-01 13:53:09 INFO com.financegov.service.CitizenBusinessServiceImpl - Citizen/Business created with entityId=16
+2026-04-01 13:53:14 WARN com.financegov.exceptions.GlobalExceptionHandler - Business error: Mail server connection failed. Failed messages: org.eclipse.angus.mail.util.MailConnectException: Couldn't connect to host, port: smtp.gmail.com, 487; timeout 5000;
+  nested exception is:
+	java.net.SocketTimeoutException: Connect timed out
+2026-04-01 13:53:37 INFO com.financegov.FinanceGovApplication - Starting FinanceGovApplication using Java 21.0.8 with PID 26456 (C:\Users\2481532\Downloads\FinanceGovApplication 4\FinanceGovApplication\target\classes started by 2481532 in C:\Users\2481532\Downloads\FinanceGovApplication 4\FinanceGovApplication)
+2026-04-01 13:53:37 INFO com.financegov.FinanceGovApplication - No active profile set, falling back to 1 default profile: "default"
+2026-04-01 13:53:39 INFO com.financegov.FinanceGovApplication - Started FinanceGovApplication in 1.934 seconds (process running for 131.422)
+2026-04-01 13:53:39 INFO com.financegov.config.AdminInitializer - Admin already exists. Skipping creation.
+2026-04-01 13:53:48 INFO com.financegov.service.CitizenBusinessServiceImpl - Creating Citizen/Business: Bharat
+2026-04-01 13:53:48 INFO com.financegov.service.CitizenBusinessServiceImpl - Citizen/Business created with entityId=17
+2026-04-01 13:53:53 WARN com.financegov.exceptions.GlobalExceptionHandler - Business error: Mail server connection failed. Failed messages: org.eclipse.angus.mail.util.MailConnectException: Couldn't connect to host, port: smtp.gmail.com, 2525; timeout 5000;
+  nested exception is:
+	java.net.SocketTimeoutException: Connect timed out
+2026-04-01 13:54:23 INFO com.financegov.FinanceGovApplication - Starting FinanceGovApplication using Java 21.0.8 with PID 26456 (C:\Users\2481532\Downloads\FinanceGovApplication 4\FinanceGovApplication\target\classes started by 2481532 in C:\Users\2481532\Downloads\FinanceGovApplication 4\FinanceGovApplication)
+2026-04-01 13:54:23 INFO com.financegov.FinanceGovApplication - No active profile set, falling back to 1 default profile: "default"
+2026-04-01 13:54:25 INFO com.financegov.FinanceGovApplication - Started FinanceGovApplication in 2.09 seconds (process running for 177.046)
+2026-04-01 13:54:25 INFO com.financegov.config.AdminInitializer - Admin already exists. Skipping creation.
+2026-04-01 13:54:51 INFO com.financegov.FinanceGovApplication - Starting FinanceGovApplication using Java 21.0.8 with PID 26456 (C:\Users\2481532\Downloads\FinanceGovApplication 4\FinanceGovApplication\target\classes started by 2481532 in C:\Users\2481532\Downloads\FinanceGovApplication 4\FinanceGovApplication)
+2026-04-01 13:54:51 INFO com.financegov.FinanceGovApplication - No active profile set, falling back to 1 default profile: "default"
+2026-04-01 13:54:53 INFO com.financegov.FinanceGovApplication - Started FinanceGovApplication in 1.795 seconds (process running for 205.657)
+2026-04-01 13:54:53 INFO com.financegov.config.AdminInitializer - Admin already exists. Skipping creation.
+2026-04-01 13:55:01 INFO com.financegov.service.CitizenBusinessServiceImpl - Creating Citizen/Business: Bharat
+2026-04-01 13:55:01 INFO com.financegov.service.CitizenBusinessServiceImpl - Citizen/Business created with entityId=18
+2026-04-01 13:55:06 WARN com.financegov.exceptions.GlobalExceptionHandler - Business error: Mail server connection failed. Failed messages: org.eclipse.angus.mail.util.MailConnectException: Couldn't connect to host, port: smtp.gmail.com, 487; timeout 5000;
+  nested exception is:
+	java.net.SocketTimeoutException: Connect timed out
+2026-04-01 13:56:01 INFO com.financegov.FinanceGovApplication - Starting FinanceGovApplication using Java 21.0.8 with PID 26456 (C:\Users\2481532\Downloads\FinanceGovApplication 4\FinanceGovApplication\target\classes started by 2481532 in C:\Users\2481532\Downloads\FinanceGovApplication 4\FinanceGovApplication)
+2026-04-01 13:56:01 INFO com.financegov.FinanceGovApplication - No active profile set, falling back to 1 default profile: "default"
+2026-04-01 13:56:24 INFO com.financegov.FinanceGovApplication - Starting FinanceGovApplication using Java 21.0.8 with PID 21176 (C:\Users\2481532\Downloads\FinanceGovApplication 4\FinanceGovApplication\target\classes started by 2481532 in C:\Users\2481532\Downloads\FinanceGovApplication 4\FinanceGovApplication)
+2026-04-01 13:56:24 INFO com.financegov.FinanceGovApplication - No active profile set, falling back to 1 default profile: "default"
+2026-04-01 13:56:34 INFO com.financegov.FinanceGovApplication - Started FinanceGovApplication in 10.545 seconds (process running for 12.443)
+2026-04-01 13:56:34 INFO com.financegov.config.AdminInitializer - Admin already exists. Skipping creation.
+2026-04-01 13:56:41 INFO com.financegov.service.CitizenBusinessServiceImpl - Creating Citizen/Business: Bharat
+2026-04-01 13:56:41 INFO com.financegov.service.CitizenBusinessServiceImpl - Citizen/Business created with entityId=19
+2026-04-01 13:56:42 WARN com.financegov.exceptions.GlobalExceptionHandler - Business error: Mail server connection failed. Failed messages: jakarta.mail.MessagingException: Could not connect to SMTP host: smtp.gmail.com, port: 587;
+  nested exception is:
+	javax.net.ssl.SSLException: Unsupported or unrecognized SSL message
+2026-04-01 13:58:20 INFO com.financegov.FinanceGovApplication - Starting FinanceGovApplication using Java 21.0.8 with PID 21176 (C:\Users\2481532\Downloads\FinanceGovApplication 4\FinanceGovApplication\target\classes started by 2481532 in C:\Users\2481532\Downloads\FinanceGovApplication 4\FinanceGovApplication)
+2026-04-01 13:58:20 INFO com.financegov.FinanceGovApplication - No active profile set, falling back to 1 default profile: "default"
+2026-04-01 13:58:23 INFO com.financegov.FinanceGovApplication - Started FinanceGovApplication in 2.26 seconds (process running for 121.263)
+2026-04-01 13:58:23 INFO com.financegov.config.AdminInitializer - Admin already exists. Skipping creation.
+2026-04-01 13:58:29 INFO com.financegov.service.CitizenBusinessServiceImpl - Creating Citizen/Business: Bharat
+2026-04-01 13:58:29 INFO com.financegov.service.CitizenBusinessServiceImpl - Citizen/Business created with entityId=20
+2026-04-01 13:58:30 WARN com.financegov.exceptions.GlobalExceptionHandler - Business error: Mail server connection failed. Failed messages: jakarta.mail.MessagingException: Could not connect to SMTP host: smtp.gmail.com, port: 587;
+  nested exception is:
+	javax.net.ssl.SSLException: Unsupported or unrecognized SSL message
+2026-04-01 14:01:29 INFO com.financegov.FinanceGovApplication - Starting FinanceGovApplication using Java 21.0.8 with PID 3124 (C:\Users\2481532\Downloads\FinanceGovApplication 4\FinanceGovApplication\target\classes started by 2481532 in C:\Users\2481532\Downloads\FinanceGovApplication 4\FinanceGovApplication)
+2026-04-01 14:01:29 INFO com.financegov.FinanceGovApplication - No active profile set, falling back to 1 default profile: "default"
+2026-04-01 14:01:38 INFO com.financegov.FinanceGovApplication - Started FinanceGovApplication in 9.623 seconds (process running for 10.584)
+2026-04-01 14:01:38 INFO com.financegov.config.AdminInitializer - Admin already exists. Skipping creation.
+2026-04-01 14:02:04 INFO com.financegov.service.CitizenBusinessServiceImpl - Creating Citizen/Business: Bharat
+2026-04-01 14:02:04 INFO com.financegov.service.CitizenBusinessServiceImpl - Citizen/Business created with entityId=21
+2026-04-01 14:02:07 WARN com.financegov.exceptions.GlobalExceptionHandler - Business error: Failed messages: org.eclipse.angus.mail.smtp.SMTPSendFailedException: 530-5.7.0 Must issue a STARTTLS command first. For more information, go to
+530-5.7.0  https://support.google.com/a/answer/3221692 and review RFC 3207
+530 5.7.0 specifications. 98e67ed59e1d1-35dbe6e2fc9sm4252963a91.15 - gsmtp
+
+2026-04-01 14:03:56 INFO com.financegov.FinanceGovApplication - Starting FinanceGovApplication using Java 21.0.8 with PID 3124 (C:\Users\2481532\Downloads\FinanceGovApplication 4\FinanceGovApplication\target\classes started by 2481532 in C:\Users\2481532\Downloads\FinanceGovApplication 4\FinanceGovApplication)
+2026-04-01 14:03:56 INFO com.financegov.FinanceGovApplication - No active profile set, falling back to 1 default profile: "default"
+2026-04-01 14:03:59 INFO com.financegov.FinanceGovApplication - Started FinanceGovApplication in 3.185 seconds (process running for 151.438)
+2026-04-01 14:03:59 INFO com.financegov.config.AdminInitializer - Admin already exists. Skipping creation.
+2026-04-01 14:04:08 INFO com.financegov.FinanceGovApplication - Starting FinanceGovApplication using Java 21.0.8 with PID 3124 (C:\Users\2481532\Downloads\FinanceGovApplication 4\FinanceGovApplication\target\classes started by 2481532 in C:\Users\2481532\Downloads\FinanceGovApplication 4\FinanceGovApplication)
+2026-04-01 14:04:08 INFO com.financegov.FinanceGovApplication - No active profile set, falling back to 1 default profile: "default"
+2026-04-01 14:04:10 INFO com.financegov.FinanceGovApplication - Started FinanceGovApplication in 2.318 seconds (process running for 163.159)
+2026-04-01 14:04:11 INFO com.financegov.config.AdminInitializer - Admin already exists. Skipping creation.
+2026-04-01 14:04:18 INFO com.financegov.service.CitizenBusinessServiceImpl - Creating Citizen/Business: Bharat
+2026-04-01 14:04:18 INFO com.financegov.service.CitizenBusinessServiceImpl - Citizen/Business created with entityId=22
+2026-04-01 14:04:23 WARN com.financegov.exceptions.GlobalExceptionHandler - Business error: Authentication failed
+2026-04-01 14:04:58 INFO com.financegov.FinanceGovApplication - Starting FinanceGovApplication using Java 21.0.8 with PID 3124 (C:\Users\2481532\Downloads\FinanceGovApplication 4\FinanceGovApplication\target\classes started by 2481532 in C:\Users\2481532\Downloads\FinanceGovApplication 4\FinanceGovApplication)
+2026-04-01 14:04:58 INFO com.financegov.FinanceGovApplication - No active profile set, falling back to 1 default profile: "default"
+2026-04-01 14:05:01 INFO com.financegov.FinanceGovApplication - Started FinanceGovApplication in 2.939 seconds (process running for 213.457)
+2026-04-01 14:05:01 INFO com.financegov.config.AdminInitializer - Admin already exists. Skipping creation.
+2026-04-01 14:05:17 INFO com.financegov.service.CitizenBusinessServiceImpl - Creating Citizen/Business: Bharat
+2026-04-01 14:05:17 INFO com.financegov.service.CitizenBusinessServiceImpl - Citizen/Business created with entityId=23
+2026-04-01 14:09:29 INFO com.financegov.controller.AuthController - New user registration attempt: gaurav
+2026-04-01 14:09:29 INFO com.financegov.service.AuthServiceImpl - Registering new citizen: gaurav7@gmail.com
+2026-04-01 14:10:01 INFO com.financegov.controller.AuthController - Login request received for: gaurav7@gmail.com
+2026-04-01 14:10:01 INFO com.financegov.service.AuthServiceImpl - Login attempt for: gaurav7@gmail.com
+2026-04-01 14:10:01 WARN com.financegov.service.AuthServiceImpl - Invalid password for user: gaurav7@gmail.com
+2026-04-01 14:10:01 WARN com.financegov.exceptions.GlobalExceptionHandler - Business error: Invalid email or password.
+2026-04-01 14:10:16 INFO com.financegov.controller.AuthController - Login request received for: gaurav7@gmail.com
+2026-04-01 14:10:16 INFO com.financegov.service.AuthServiceImpl - Login attempt for: gaurav7@gmail.com
+2026-04-01 14:10:17 INFO com.financegov.util.RoleRedirectUtil - Redirecting user with role: ROLE_CITIZEN
+2026-04-01 14:10:17 INFO com.financegov.service.AuthServiceImpl - User gaurav7@gmail.com logged in successfully. Redirecting to /api/citizen/home
+2026-04-01 14:10:17 INFO com.financegov.service.AuditLogService - Audit Log Saved: gaurav7@gmail.com performed USER_LOGIN on gaurav7@gmail.com
+2026-04-01 14:10:48 INFO com.financegov.service.CitizenBusinessServiceImpl - Creating Citizen/Business: Gaurav
+2026-04-01 14:10:48 INFO com.financegov.service.CitizenBusinessServiceImpl - Citizen/Business created with entityId=24
+2026-04-01 14:19:32 INFO com.financegov.service.AuditLogService - Audit Log Saved: kulkarniritesh57@gmail.com performed PASSWORD_RESET on kulkarniritesh57@gmail.com
+2026-04-01 17:52:40 INFO com.financegov.FinanceGovApplication - Starting FinanceGovApplication using Java 21.0.8 with PID 29804 (C:\Users\2481532\OneDrive - Cognizant\Desktop\FinanceGovApplication\FinanceGovApplication\target\classes started by 2481532 in C:\Users\2481532\OneDrive - Cognizant\Desktop\FinanceGovApplication\FinanceGovApplication)
+2026-04-01 17:52:40 INFO com.financegov.FinanceGovApplication - No active profile set, falling back to 1 default profile: "default"
+2026-04-01 17:52:46 INFO com.financegov.FinanceGovApplication - Started FinanceGovApplication in 6.338 seconds (process running for 7.17)
+2026-04-01 17:52:46 INFO com.financegov.config.AdminInitializer - Admin already exists. Skipping creation.
+2026-04-01 17:53:28 WARN com.financegov.exceptions.GlobalExceptionHandler - Authentication failed: Full authentication is required to access this resource
+2026-04-01 17:53:29 WARN com.financegov.exceptions.GlobalExceptionHandler - Authentication failed: Full authentication is required to access this resource
+2026-04-01 17:54:58 INFO com.financegov.FinanceGovApplication - Starting FinanceGovApplication using Java 21.0.8 with PID 8876 (C:\Users\2481532\OneDrive - Cognizant\Desktop\FinanceGovApplication\FinanceGovApplication\target\classes started by 2481532 in C:\Users\2481532\OneDrive - Cognizant\Desktop\FinanceGovApplication\FinanceGovApplication)
+2026-04-01 17:54:58 INFO com.financegov.FinanceGovApplication - No active profile set, falling back to 1 default profile: "default"
+2026-04-01 17:55:10 INFO com.financegov.FinanceGovApplication - Started FinanceGovApplication in 12.408 seconds (process running for 13.735)
+2026-04-01 17:55:10 INFO com.financegov.config.AdminInitializer - Admin already exists. Skipping creation.
+2026-04-01 17:56:25 INFO com.financegov.FinanceGovApplication - Starting FinanceGovApplication using Java 21.0.8 with PID 8876 (C:\Users\2481532\OneDrive - Cognizant\Desktop\FinanceGovApplication\FinanceGovApplication\target\classes started by 2481532 in C:\Users\2481532\OneDrive - Cognizant\Desktop\FinanceGovApplication\FinanceGovApplication)
+2026-04-01 17:56:25 INFO com.financegov.FinanceGovApplication - No active profile set, falling back to 1 default profile: "default"
+2026-04-01 17:56:36 INFO com.financegov.FinanceGovApplication - Started FinanceGovApplication in 10.73 seconds (process running for 100.203)
+2026-04-01 17:56:36 INFO com.financegov.config.AdminInitializer - Admin already exists. Skipping creation.
+2026-04-01 17:56:38 WARN com.financegov.exceptions.GlobalExceptionHandler - Authentication failed: Full authentication is required to access this resource
+2026-04-01 17:56:38 WARN com.financegov.exceptions.GlobalExceptionHandler - Authentication failed: Full authentication is required to access this resource
+2026-04-01 17:58:57 INFO com.financegov.FinanceGovApplication - Starting FinanceGovApplication using Java 21.0.8 with PID 27908 (C:\Users\2481532\OneDrive - Cognizant\Desktop\FinanceGovApplication\FinanceGovApplication\target\classes started by 2481532 in C:\Users\2481532\OneDrive - Cognizant\Desktop\FinanceGovApplication\FinanceGovApplication)
+2026-04-01 17:58:57 INFO com.financegov.FinanceGovApplication - No active profile set, falling back to 1 default profile: "default"
+2026-04-01 17:59:12 INFO com.financegov.FinanceGovApplication - Started FinanceGovApplication in 16.767 seconds (process running for 18.539)
+2026-04-01 17:59:13 INFO com.financegov.config.AdminInitializer - Admin already exists. Skipping creation.
+2026-04-01 17:59:22 WARN com.financegov.exceptions.GlobalExceptionHandler - Authentication failed: Full authentication is required to access this resource
+2026-04-01 17:59:22 WARN com.financegov.exceptions.GlobalExceptionHandler - Authentication failed: Full authentication is required to access this resource
+2026-04-01 17:59:34 WARN com.financegov.exceptions.GlobalExceptionHandler - Authentication failed: Full authentication is required to access this resource
+2026-04-01 17:59:34 WARN com.financegov.exceptions.GlobalExceptionHandler - Authentication failed: Full authentication is required to access this resource
+2026-04-01 17:59:37 WARN com.financegov.exceptions.GlobalExceptionHandler - Authentication failed: Full authentication is required to access this resource
+2026-04-01 17:59:37 WARN com.financegov.exceptions.GlobalExceptionHandler - Authentication failed: Full authentication is required to access this resource
+2026-04-01 18:00:10 INFO com.financegov.FinanceGovApplication - Starting FinanceGovApplication using Java 21.0.8 with PID 27908 (C:\Users\2481532\OneDrive - Cognizant\Desktop\FinanceGovApplication\FinanceGovApplication\target\classes started by 2481532 in C:\Users\2481532\OneDrive - Cognizant\Desktop\FinanceGovApplication\FinanceGovApplication)
+2026-04-01 18:00:10 INFO com.financegov.FinanceGovApplication - No active profile set, falling back to 1 default profile: "default"
+2026-04-01 18:00:16 INFO com.financegov.FinanceGovApplication - Started FinanceGovApplication in 5.781 seconds (process running for 81.579)
+2026-04-01 18:00:16 INFO com.financegov.config.AdminInitializer - Admin already exists. Skipping creation.
+2026-04-01 18:00:20 WARN com.financegov.exceptions.GlobalExceptionHandler - Authentication failed: Full authentication is required to access this resource
+2026-04-01 18:00:20 WARN com.financegov.exceptions.GlobalExceptionHandler - Authentication failed: Full authentication is required to access this resource
+2026-04-01 18:00:56 WARN com.financegov.exceptions.GlobalExceptionHandler - Authentication failed: Full authentication is required to access this resource
+2026-04-01 18:00:56 WARN com.financegov.exceptions.GlobalExceptionHandler - Authentication failed: Full authentication is required to access this resource
+2026-04-01 18:01:43 INFO com.financegov.FinanceGovApplication - Starting FinanceGovApplication using Java 21.0.8 with PID 27908 (C:\Users\2481532\OneDrive - Cognizant\Desktop\FinanceGovApplication\FinanceGovApplication\target\classes started by 2481532 in C:\Users\2481532\OneDrive - Cognizant\Desktop\FinanceGovApplication\FinanceGovApplication)
+2026-04-01 18:01:43 INFO com.financegov.FinanceGovApplication - No active profile set, falling back to 1 default profile: "default"
+2026-04-01 18:01:48 INFO com.financegov.FinanceGovApplication - Started FinanceGovApplication in 4.789 seconds (process running for 174.227)
+2026-04-01 18:01:48 INFO com.financegov.config.AdminInitializer - Admin already exists. Skipping creation.
+2026-04-01 18:02:57 WARN com.financegov.exceptions.GlobalExceptionHandler - Authentication failed: Full authentication is required to access this resource
+2026-04-01 18:02:58 WARN com.financegov.exceptions.GlobalExceptionHandler - Authentication failed: Full authentication is required to access this resource
+2026-04-01 18:04:00 INFO com.financegov.FinanceGovApplication - Starting FinanceGovApplication using Java 21.0.8 with PID 27908 (C:\Users\2481532\OneDrive - Cognizant\Desktop\FinanceGovApplication\FinanceGovApplication\target\classes started by 2481532 in C:\Users\2481532\OneDrive - Cognizant\Desktop\FinanceGovApplication\FinanceGovApplication)
+2026-04-01 18:04:00 INFO com.financegov.FinanceGovApplication - No active profile set, falling back to 1 default profile: "default"
+2026-04-01 18:04:15 INFO com.financegov.FinanceGovApplication - Started FinanceGovApplication in 15.065 seconds (process running for 321.444)
+2026-04-01 18:04:16 INFO com.financegov.config.AdminInitializer - Admin already exists. Skipping creation.
+2026-04-01 18:04:58 INFO com.financegov.controller.AuthController - New user registration attempt: Azam
+2026-04-01 18:04:58 INFO com.financegov.service.AuthServiceImpl - Registering new citizen: Azam@gmail.com
+2026-04-01 18:05:14 INFO com.financegov.controller.AuthController - Login request received for: Azam@gmail.com
+2026-04-01 18:05:14 INFO com.financegov.service.AuthServiceImpl - Login attempt for: Azam@gmail.com
+2026-04-01 18:05:15 INFO com.financegov.util.RoleRedirectUtil - Redirecting user with role: ROLE_CITIZEN
+2026-04-01 18:05:15 INFO com.financegov.service.AuthServiceImpl - User Azam@gmail.com logged in successfully. Redirecting to /api/citizen/home
+2026-04-01 18:05:15 INFO com.financegov.service.AuditLogService - Audit Log Saved: Azam@gmail.com performed USER_LOGIN on Azam@gmail.com
+2026-04-01 18:05:42 INFO com.financegov.service.CitizenBusinessServiceImpl - Creating Citizen/Business: Azam
+2026-04-01 18:05:42 INFO com.financegov.service.CitizenBusinessServiceImpl - Citizen/Business created with entityId=25
+2026-04-01 18:05:47 WARN com.financegov.exceptions.GlobalExceptionHandler - Business error: Mail server connection failed. Failed messages: jakarta.mail.MessagingException: Exception reading response;
+  nested exception is:
+	java.net.SocketTimeoutException: Read timed out
+2026-04-01 18:06:32 INFO com.financegov.service.CitizenBusinessServiceImpl - Creating Citizen/Business: Azam
+2026-04-01 18:06:32 INFO com.financegov.service.CitizenBusinessServiceImpl - Citizen/Business created with entityId=26

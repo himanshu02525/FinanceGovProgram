@@ -1,0 +1,2 @@
+2026-03-22 22:39:22  INFO com.financegov.service.impl.ComplianceRecordServiceImpl - Fetching all compliance records
+2026-03-22 22:39:22  INFO com.financegov.service.impl.ComplianceRecordServiceImpl - Total compliance records fetched: 1
