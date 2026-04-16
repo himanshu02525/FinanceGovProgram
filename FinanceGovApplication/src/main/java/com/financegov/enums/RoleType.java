@@ -1,0 +1,10 @@
+package com.financegov.enums;
+
+public enum RoleType {
+	ROLE_ADMIN,
+    ROLE_FINANCIAL_OFFICER,
+    ROLE_PROGRAM_MANAGER,
+    ROLE_COMPLIANCE_OFFICER,
+    ROLE_GOVERNMENT_AUDITOR,
+    ROLE_CITIZEN
+}
