@@ -13,7 +13,6 @@ import com.financegov.enums.RoleType;
 import com.financegov.enums.Status;
 import com.financegov.exceptions.ResourceNotFoundException;
 import com.financegov.model.CitizenBusiness;
-import com.financegov.model.User;
 import com.financegov.repository.CitizenBusinessRepository;
 
 import lombok.extern.slf4j.Slf4j;

@@ -1,7 +1,10 @@
 package com.financegov.dto;
-import com.financegov.enums.*;
+import com.financegov.enums.Status;
+import com.financegov.enums.Type;
 
-import lombok.*;
+import lombok.AllArgsConstructor;
+import lombok.Data;
+import lombok.NoArgsConstructor;
 @Data
 @NoArgsConstructor
 @AllArgsConstructor
