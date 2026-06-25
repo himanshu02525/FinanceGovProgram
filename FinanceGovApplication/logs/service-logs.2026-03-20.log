@@ -1,4 +1,0 @@
-2026-03-20 17:17:58 INFO  c.f.s.i.ComplianceRecordServiceImpl - Updating compliance record with ID: 1
-2026-03-20 17:18:25 INFO  c.f.s.i.ComplianceRecordServiceImpl - Updating compliance record with ID: 2
-2026-03-20 17:18:25 WARN  c.f.s.i.ComplianceRecordServiceImpl - CALLING AUDIT METHOD
-2026-03-20 17:18:25 INFO  c.f.s.i.ComplianceRecordServiceImpl - Compliance record updated successfully for ID: 2
